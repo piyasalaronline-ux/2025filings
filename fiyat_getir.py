@@ -3,7 +3,7 @@ import json
 import os
 import time
 
-DATA_FOLDER = 'data'
+DATA_FOLDER = 'USDATAyfinance'
 if not os.path.exists(DATA_FOLDER):
     os.makedirs(DATA_FOLDER)
 
@@ -65,5 +65,6 @@ for ticker in tickers:
 
 with open(os.path.join(DATA_FOLDER, "pazar_verileri.json"), 'w', encoding='utf-8') as f:
     json.dump(market_data, f, ensure_ascii=False)
+
 
 print("\nBİTTİ! Veriler güncellendi.")
