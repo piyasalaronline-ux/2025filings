@@ -1,0 +1,63 @@
+name: Finansal Tabloları Güncelle (veri_getir.py)
+
+on:
+  schedule:
+    # Her gün sabah 08:00'de (Türkiye saati ile) çalışır (UTC 05:00)
+    # Piyasalar kapalıyken veri çekmek daha sağlıklıdır.
+    - cron: '0 5 * * *'
+  
+  # Manuel tetikleme butonu (Test etmek için)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-financials:
+    runs-on: ubuntu-latest
+    # İşlem uzun sürerse durmaması için timeout süresini artırıyoruz (30 dk)
+    timeout-minutes: 30
+
+    steps:
+    - name: Depoyu Çek (Checkout)
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0 # Git geçmişini tam çek (pull/rebase hatası almamak için)
+
+    - name: Python Kurulumu
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip' # Kütüphane yüklemelerini hızlandırır
+
+    - name: Kütüphaneleri Yükle
+      run: |
+        pip install -r requirements.txt
+
+    - name: Finansal Veri Scriptini Çalıştır
+      run: |
+        # Scriptiniz zaten 'USDATAyfinance' klasörüne yazacak şekilde ayarlı
+        python veri_getir.py
+
+    - name: Değişiklikleri Kaydet ve Gönder (Commit & Push)
+      run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@github.com'
+        
+        # Değişiklik olup olmadığını kontrol et
+        # USDATAyfinance klasöründeki tüm değişiklikleri ekle
+        git add USDATAyfinance/
+        
+        # Eğer değişiklik yoksa hata verip durma, sessizce çık
+        if git diff --staged --quiet; then
+          echo "Finansal tablolarda değişiklik yok."
+          exit 0
+        fi
+        
+        git commit -m "Otomatik finansal tablo güncellemesi: $(date +'%Y-%m-%d')"
+        
+        # Çakışmaları önlemek için önce sunucudaki son hali çek
+        git pull --rebase
+        
+        # Verileri gönder
+        git push
