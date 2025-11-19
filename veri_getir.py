@@ -5,7 +5,7 @@ import os
 import datetime
 
 # Verilerin kaydedileceği klasör
-DATA_FOLDER = 'data'
+DATA_FOLDER = 'USDATAyfinance'
 if not os.path.exists(DATA_FOLDER):
     os.makedirs(DATA_FOLDER)
 
