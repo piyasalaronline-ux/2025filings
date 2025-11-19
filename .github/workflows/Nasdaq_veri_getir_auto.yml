@@ -16,7 +16,7 @@ jobs:
   update-financials:
     runs-on: ubuntu-latest
     # İşlem uzun sürerse durmaması için timeout süresini artırıyoruz (30 dk)
-    timeout-minutes: 30
+    timeout-minutes: 120
 
     steps:
     - name: Depoyu Çek (Checkout)
@@ -60,4 +60,5 @@ jobs:
         git pull --rebase
         
         # Verileri gönder
+
         git push
