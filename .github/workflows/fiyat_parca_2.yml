@@ -1,0 +1,33 @@
+name: Fiyat Guncelle - Parca 2
+on:
+  schedule:
+    - cron: '30 2 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-price-2:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip'
+    - run: pip install yfinance
+    # 2. Parça çalışsın
+    - run: python fiyat_getir.py 2
+    - run: |
+        git config --global user.name 'GitHub Actions Bot'
+        git config --global user.email 'actions@github.com'
+        git add USDATAyfinance/pazar_verileri.json
+        if git diff --staged --quiet; then
+          echo "Değişiklik yok."
+          exit 0
+        fi
+        git commit -m "Fiyat Verisi Parça 2: $(date)"
+        git pull --rebase
+        git push
