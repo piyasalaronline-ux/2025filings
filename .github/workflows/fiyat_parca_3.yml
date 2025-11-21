@@ -1,7 +1,7 @@
 name: Fiyat Guncelle - Parca 3
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '30 5 * * *'
   workflow_dispatch:
 permissions:
   contents: write
@@ -30,4 +30,5 @@ jobs:
         fi
         git commit -m "Fiyat Verisi Parça 3: $(date)"
         git pull --rebase
+
         git push
