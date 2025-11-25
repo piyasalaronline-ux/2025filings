@@ -1,616 +1,616 @@
-Hisse Kodu	Şirket Adı	Sektör(ler)
-BORLS	Borlease Otomotiv A.Ş.	Servis Taşımacılığı ve Araç Kiralama
-DARDL	Dardanel Önentaş Gıda Sanayi A.Ş.	Gıda ve İçecek
-PAHOL	Pasifik Holding A.Ş.	Holding
-DUNYH	Dünya Holding A.Ş.	Holding
-RALYH	Ral Yatırım Holding A.Ş.	Holding
-EYGYO	EYG Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-VAKFA	Vakıf Faktoring A.Ş.	Faktoring
-YKSLN	Yükselen Çelik A.Ş.	Ana Metal, İmalat
-UMPAS	Umpaş Holding A.Ş.	Holding
-FZLGY	Fuzul Gayrimenkul Yatırım Ortaklığı AŞ	Gayrimenkul
-GOLTS	Göltaş Göller Bölgesi Çimento Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-GUNDG	Gündoğdu Gıda Süt Ürünleri Sanayi ve Dış Ticaret A.Ş.	Gıda ve İçecek
-GMTAS	Gimat Mağazacılık Sanayi ve Ticaret A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-HEDEF	Hedef Holding A.Ş.	Holding
-HEKTS	Hektaş Ticaret T.A.Ş.	Kimya ve Plastik, İmalat
-ONCSM	Oncosem Onkolojik Sistemler Sanayi ve Ticaret A.Ş.	İlaç ve Sağlık
-PRKME	Park Elektrik Üretim Madencilik Sanayi ve Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-SNICA	Sanica Isı Sanayi A.Ş.	İmalat, Metal Eşya ve Makine
-HURGZ	Hürriyet Gazetecilik ve Matbaacılık A.Ş.	Kağıt ve Kağıt Ürünleri
-KLSER	Kaleseramik, Çanakkale Kalebodur Seramik Sanayi AŞ	Cam, Seramik, Porselen
-KONTR	Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş.	Bilişim ve Yazılım, Enerji Teknolojileri
-KLGYO	Kiler Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-LKMNH	Lokman Hekim Engürüsağ Sağlık, Turizm, Eğitim Hizmetleri ve İnşaat Taahhüt A.Ş.	İlaç ve Sağlık
-TMSN	Tümosan Motor ve Traktör Sanayi A.Ş.	Otomotiv
-GRTRK	Graintürk Holding A.Ş.	—
-ISGYO	İş Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-ADGYO	Adra Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-MPARK	Mlp Sağlık Hizmetleri A.Ş.	İlaç ve Sağlık
-AKBNK	Akbank T.A.Ş.	Bankacılık
-ALKLC	Altınkılıç Gıda ve Süt Sanayi Ticaret A.Ş.	Gıda ve İçecek
-CASA	Casa Emtia Petrol Kimyevi ve Türevleri Sanayi Ticaret A.Ş.	Kimya ve Plastik
-OZYSR	Özyaşar Tel ve Galvanizleme Sanayi A.Ş.	Ana Metal
-ROYAL	Royal Halı İplik Tekstil Mobilya Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-AHSGY	AHES Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-ANSGR	Anadolu Anonim Türk Sigorta Şirketi	Sigorta
-BOBET	Boğaziçi Beton Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-BURVA	Burçelik Vana Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-BVSAN	Bülbüloğlu Vinç Sanayi ve Ticaret A.Ş.	İmalat
-DAGI	Dagi Giyim Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-DENGE	Denge Yatırım Holding A.Ş.	Holding
-EGSER	Ege Seramik Sanayi ve Ticaret A.Ş.	Cam, Seramik, Porselen
-HRKET	Hareket Proje Taşımacılığı ve Yük Mühendisliği A.Ş.	Ulaştırma, Destek ve Hizmet
-HALKB	Türkiye Halk Bankası A.Ş.	Bankacılık
-PETKM	Petkim Petrokimya Holding A.Ş.	Kimya ve Plastik
-HATSN	Hat-San Gemi İnşaa Bakım Onarım Deniz Nakliyat Sanayi ve Ticaret A.Ş.	İmalat
-RUZYE	Ruzy Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş.	Madencilik ve Taş Ocakçılığı
-SELVA	Selva Gıda Sanayi A.Ş.	Gıda ve İçecek
-SKYLP	Skyalp Finansal Teknolojiler ve Danışmanlık A.Ş.	Bilişim ve Yazılım
-DURDO	Duran Doğan Basım ve Ambalaj Sanayi A.Ş.	Kağıt ve Kağıt Ürünleri, Ambalaj
-TLMAN	Trabzon Liman İşletmeciliği A.Ş.	Ulaştırma
-KOZAA	TR Anadolu Metal Madencilik İşletmeleri A.Ş.	—
-LILAK	Lila Kağıt Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri
-KMPUR	Kimteks Poliüretan Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-MIATK	Mia Teknoloji A.Ş.	Bilişim ve Yazılım
-OTTO	Otto Holding A.Ş.	Holding
-PGSUS	Pegasus Hava Taşımacılığı A.Ş.	Ulaştırma
-PETUN	Pınar Entegre Et ve Un Sanayii A.Ş.	Gıda ve İçecek
-AGESA	Agesa Hayat ve Emeklilik A.Ş.	Emeklilik
-AHGAZ	Ahlatcı Doğal Gaz Dağıtım Enerji ve Yatırım A.Ş.	Enerji Üretim ve Dağıtım
-AKYHO	Akdeniz Yatırım Holding A.Ş.	Destek ve Hizmet
-AKENR	Akenerji Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım
-TSGYO	TSKB Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-BALSU	Balsu Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-DOFER	Dofer Yapı Malzemeleri Sanayi ve Ticaret A.Ş.	İmalat
-EDATA	E-Data Teknoloji Pazarlama A.Ş.	Bilişim ve Yazılım
-EFOR	Efor Yatırım Sanayi Ticaret A.Ş.	Kimya ve Plastik, Gıda ve İçecek
-ISATR	Türkiye İş Bankası A.Ş.	Bankacılık
-OZATD	Özata Denizcilik Sanayi ve Ticaret A.Ş.	İmalat
-INTEK	İnnosa Teknoloji A.Ş.	Bilişim ve Yazılım
-NETAS	Netaş Telekomünikasyon A.Ş.	Bilişim ve Yazılım, Haberleşme
-QUAGR	QUA Granite Hayal Yapı ve Ürünleri Sanayi Ticaret A.Ş.	Cam, Seramik, Porselen
-RODRG	Rodrigo Tekstil Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-SURGY	Sur Tatil Evleri Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-SMRVA	Sümer Varlık Yönetim A.Ş.	Varlık Yönetimi
-TOASO	Tofaş Türk Otomobil Fabrikası A.Ş.	Otomotiv, İmalat
-TRGYO	Torunlar Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-ISKUR	Türkiye İş Bankası A.Ş.	Bankacılık
-AKFYE	Akfen Yenilenebilir Enerji A.Ş	Enerji Üretim ve Dağıtım
-TUPRS	TÜPRAŞ - Türkiye Petrol Rafinerileri A.Ş.	Kimya ve Plastik
-MANAS	Manas Enerji Yönetimi Sanayi ve Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-NUGYO	Nurol Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-GENIL	Gen İlaç ve Sağlık Ürünleri Sanayi ve Ticaret A.Ş.	İlaç ve Sağlık
-INVES	Investco Holding A.Ş.	Holding
-SNGYO	Sinpaş Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-AZTEK	Aztek Teknoloji Ürünleri Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-BIGEN	Birleşim Grup Enerji Yatırımları A.Ş.	Enerji Üretim ve Dağıtım
-GLRYH	Güler Yatırım Holding A.Ş.	Holding
-UZERB	İnnosa Teknoloji A.Ş.	—
-SKYMD	Şeker Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-UNLU	Ünlü Yatırım Holding A.Ş.	Holding
-ANGEN	Anatolia Tanı ve Biyoteknoloji Ürünleri Araştırma Geliştirme Sanayi ve Ticaret A.Ş.	İlaç ve Sağlık
-BRKO	Birko Birleşik Koyunlulular Mensucat Ticaret ve Sanayi A.Ş.	Tekstil, Giyim ve Deri, İmalat
-EREGL	Ereğli Demir ve Çelik Fabrikaları T.A.Ş.	Ana Metal, İmalat
-TEZOL	Europap Tezol Kağıt Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri
-AKMGY	Akmerkez Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-BRISA	Brisa Bridgestone Sabancı Lastik Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, Kimya ve Plastik, İmalat
-DOFRB	Dof Robotik Sanayi A.Ş.	Bilişim ve Yazılım, İmalat
-ETILR	Etiler Gıda ve Ticari Yatırımlar Sanayi ve Ticaret A.Ş.	Toptan ve Perakende Ticaret
-GARFA	Garanti Faktoring A.Ş.	Faktoring
-GRTHO	Graintürk Holding A.Ş.	Gıda ve İçecek
-KLKIM	Kalekim Kimyevi Maddeler Sanayi ve Ticaret A.Ş.	Kimya ve Plastik, İmalat
-KAYSE	Kayseri Şeker Fabrikası A.Ş.	Gıda ve İçecek
-KENT	Kent Gıda Maddeleri Sanayii ve Ticaret A.Ş.	Gıda ve İçecek
-KGYO	Koray Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-KOCMT	Koç Metalurji A.Ş.	Ana Metal
-ALKA	Alkim Kağıt Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri
-ANELE	Anel Elektrik Proje Taahhüt ve Ticaret A.Ş.	İnşaat
-ASELS	Aselsan Elektronik Sanayi ve Ticaret A.Ş.	Savunma, İmalat
-BURCE	Burçelik Bursa Çelik Döküm Sanayii A.Ş.	Ana Metal, İmalat
-ETYAT	Euro Trend Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-AVTUR	Avrasya Petrol ve Turistik Tesisler Yatırımlar A.Ş.	Toptan ve Perakende Ticaret
-AYES	Ayes Çelik Hasır ve Çit Sanayi A.Ş.	İmalat
-PLTUR	Platform Turizm Taşımacılık Gıda İnşaat Temizlik Hizmetleri Sanayi ve Ticaret A.Ş.	Ulaştırma, Servis Taşımacılığı ve Araç Kiralama
-REEDR	Reeder Teknoloji Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım
-EKSUN	Eksun Gıda Tarım Sanayi ve Ticaret A.Ş	Gıda ve İçecek
-ICBCT	Icbc Turkey Bank A.Ş.	Bankacılık
-MARBL	Tureks Turunç Madencilik İç ve Dış Ticaret A.Ş.	Taş, Toprak, Çimento
-KLNMA	Türkiye Kalkınma ve Yatırım Bankası A.Ş.	Bankacılık
-CUSAN	Çuhadaroğlu Metal Sanayi ve Pazarlama A.Ş.	Ana Metal, İmalat
-MSGYO	Mistral Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-HKTM	Hidropar Hareket Kontrol Teknolojileri Merkezi Sanayi ve Ticaret A.Ş.	İmalat, Metal Eşya ve Makine
-KZBGY	Kızılbük Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-EGEPO	Nasmed Özel Sağlık Hizmetleri Ticaret A.Ş.	İlaç ve Sağlık
-NATEN	Naturel Yenilenebilir Enerji Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-BIENY	Bien Yapı Ürünleri Sanayi Turizm ve Ticaret A.Ş.	Cam, Seramik, Porselen
-OFSYM	Ofis Yem Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-DMRGD	DMR Unlu Mamuller Üretim Gıda Toptan Perakende İhracat A.Ş.	Gıda ve İçecek
-MERCN	Mercan Kimya Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-EBEBK	Ebebek Mağazacılık A.Ş.	Toptan ve Perakende Ticaret
-MOGAN	Mogan Enerji Yatırım Holding A.Ş	Enerji Üretim ve Dağıtım
-ESCOM	Escort Teknoloji Yatırım A.Ş.	Bilişim ve Yazılım
-TERA	Tera Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-ODAS	Odaş Elektrik Üretim Sanayi Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-PASEU	Pasifik Eurasia Lojistik Dış Ticaret A.Ş.	Ulaştırma
-ATEKS	Akın Tekstil A.Ş.	Tekstil, Giyim ve Deri
-ARZUM	Arzum Elektrikli Ev Aletleri Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat
-BJKAS	Beşiktaş Futbol Yatırımları Sanayi ve Ticaret A.Ş.	Spor
-BRMEN	Birlik Mensucat Ticaret ve Sanayi İşletmesi A.Ş.	Tekstil, Giyim ve Deri, İmalat
-KUYAS	Kuyaş Yatırım A.Ş.	Gayrimenkul
-OSTIM	Ostim Endüstriyel Yatırımlar ve İşletme A.Ş.	Holding
-PATEK	Pasifik Donanım ve Yazılım Bilgi Teknolojileri A.Ş.	Bilişim ve Yazılım, Savunma
-UFUK	Ufuk Yatırım Yönetim ve Gayrimenkul A.Ş.	Holding
-ULUUN	Ulusoy Un Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-YUNSA	Yünsa Yünlü Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-YBTAS	Yibitaş Yozgat İşçi Birliği İnşaat Malzemeleri Ticaret ve Sanayi A.Ş.	İnşaat
-CATES	Çates Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım
-CEMAS	Çemaş Döküm Sanayi A.Ş.	Ana Metal, İmalat
-LRSHO	Loras Holding A.Ş.	Holding
-TMPOL	Temapol Polimer Plastik ve İnşaat Sanayi Ticaret A.Ş.	Kimya ve Plastik
-TRILC	Türk İlaç ve Serum Sanayi A.Ş.	İlaç ve Sağlık
-ULAS	Ulaşlar Turizm Yatırımları ve Dayanıklı Tüketim Malları Ticaret Pazarlama A.Ş.	Turizm
-FRIGO	Frigo-Pak Gıda Maddeleri Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-PENGD	Penguen Gıda Sanayi A.Ş.	Gıda ve İçecek
-TTRAK	Türk Traktör ve Ziraat Makineleri A.Ş.	Otomotiv
-YAPRK	Yaprak Süt ve Besi Çiftlikleri Sanayi ve Ticaret A.Ş.	Tarım, Hayvancılık, Balıkçılık
-PENTA	Penta Teknoloji Ürünleri Dağıtım Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-POLTK	Politeknik Metal Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-ALTNY	Altınay Savunma Teknolojileri A.Ş.	Savunma
-ENDAE	Enda Enerji Holding A.Ş.	Enerji Üretim ve Dağıtım
-SOKE	Söke Değirmencilik Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-TARKM	Tarkim Bitki Koruma Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-TDGYO	Trend Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-SNPAM	Sönmez Pamuklu Sanayii A.Ş.	Tekstil, Giyim ve Deri
-TATGD	Tat Gıda Sanayi A.Ş.	Gıda ve İçecek
-ANHYT	Anadolu Hayat Emeklilik A.Ş.	Emeklilik
-BULGS	Bulls Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-IMASM	İmaş Makina Sanayi A.Ş.	Metal Eşya ve Makine
-IZINV	İZ Yatırım Holding A.Ş	Holding
-SKBNK	Şekerbank T.A.Ş.	Bankacılık
-SARKY	Sarkuysan Elektrolit Bakır Sanayi ve Ticaret A.Ş.	Madencilik ve Taş Ocakçılığı, Ana Metal
-SAYAS	Say Yenilenebilir Enerji Ekipmanları Sanayi ve Ticaret A.Ş	Enerji Teknolojileri
-TUREX	Tureks Turizm Taşımacılık A.Ş.	Turizm, Servis Taşımacılığı ve Araç Kiralama
-TCELL	Turkcell İletişim Hizmetleri A.Ş.	Haberleşme
-THYAO	Türk Hava Yolları A.O.	Ulaştırma
-TURGG	Türker Proje Gayrimenkul ve Yatırım Geliştirme A.Ş.	İnşaat
-CMBTN	Çimbeton Hazırbeton ve Prefabrik Yapı Elemanları Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento, İnşaat
-INDES	İndeks Bilgisayar Sistemleri Mühendislik Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-YYAPI	Yeşil Yapı Endüstrisi A.Ş.	İnşaat
-YESIL	Yeşil Yatırım Holding A.Ş.	Holding
-ZRGYO	Ziraat Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-CANTE	Çan2 Termik A.Ş.	Enerji Üretim ve Dağıtım
-ISBTR	Türkiye İş Bankası A.Ş.	Bankacılık
-SMRTG	Smart Güneş Enerjisi Teknolojileri Araştırma Geliştirme Üretim Sanayi ve Ticaret A.Ş.	Enerji Teknolojileri
-IDGYO	İdealist Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-GOZDE	Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-KARSN	Karsan Otomotiv Sanayii ve Ticaret A.Ş.	Otomotiv, İmalat
-KUVVA	Kuvva Gıda Ticaret ve Sanayi Yatırımları A.Ş.	Gıda ve İçecek
-CEMTS	Çemtaş Çelik Makina Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-CCOLA	Coca-Cola İçecek A.Ş.	Gıda ve İçecek
-DNISI	Dinamik Isı Makina Yalıtım Malzemeleri Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-ECILC	Eis Eczacıbaşı İlaç, Sınai ve Finansal Yatırımlar Sanayi ve Ticaret A.Ş.	Holding, İlaç ve Sağlık
-GARAN	Türkiye Garanti Bankası A.Ş.	Bankacılık
-VKFYO	Vakıf Menkul Kıymet Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-YEOTK	YEO Teknoloji Enerji ve Endüstri A.Ş.	Bilişim ve Yazılım, Enerji Teknolojileri
-OZRDN	Özerden Ambalaj Sanayi A.Ş.	Ambalaj
-NIBAS	Niğbaş Niğde Beton Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-SEGYO	Şeker Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-QNBFK	QNB Finansal Kiralama A.Ş.	Finansal Kiralama
-SUMAS	Sumaş Suni Tahta ve Mobilya Sanayi A.Ş.	Mobilya ve Dekorasyon, İmalat
-BINBN	Bin Ulaşım ve Akıllı Şehir Teknolojileri A.Ş.	Ulaştırma
-ECOGR	Ecogreen Enerji Holding A.Ş.	Kimya ve Plastik, Enerji Üretim ve Dağıtım, Enerji Teknolojileri
-SUNTK	Sun Tekstil Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-RNPOL	Rainbow Polikarbonat Sanayi Ticaret A.Ş.	Kimya ve Plastik, İmalat
-ISSEN	İşbir Sentetik Dokuma Sanayi A.Ş.	Kimya ve Plastik
-GLBMD	Global Menkul Değerler A.Ş.	Aracı Kurum
-DERIM	Derimod Konfeksiyon Ayakkabı Deri Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-DSTKF	Destek Finans Faktoring A.Ş.	Faktoring
-DOHOL	Doğan Şirketler Grubu Holding A.Ş.	Holding
-SUWEN	Suwen Tekstil Sanayi Pazarlama A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-ESEN	Esenboğa Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım
-EUREN	Europen Endüstri İnşaat Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon, İnşaat
-FLAP	Flap Kongre Toplantı Hizmetleri Otomotiv ve Turizm A.Ş.	Destek ve Hizmet
-FORTE	Forte Bilgi İletişim Teknolojileri ve Savunma Sanayi A.Ş.	Bilişim ve Yazılım
-GIPTA	Gıpta Ofis Kırtasiye ve Promosyon Ürünleri İmalat Sanayi A.Ş.	İmalat
-GSDHO	Gsd Holding A.Ş.	Holding
-MAKTK	Makina Takım Endüstrisi A.Ş.	Metal Eşya ve Makine
-KTLEV	Katılımevim Tasarruf Finansman A.Ş.	Tasarruf Finansman
-KERVN	Kervansaray Yatırım Holding A.Ş.	Holding
-LOGO	Logo Yazılım Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım
-NUHCM	Nuh Çimento Sanayi A.Ş.	Taş, Toprak, Çimento
-BLCYT	Bilici Yatırım Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Holding
-CEOEM	Ceo Event Medya A.Ş.	Destek ve Hizmet
-DGATE	Datagate Bilgisayar Malzemeleri Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-ONRYT	Onur Yüksek Teknoloji A.Ş.	Bilişim ve Yazılım, Savunma, Enerji Teknolojileri
-OTKAR	Otokar Otomotiv ve Savunma Sanayi A.Ş.	Otomotiv, Savunma
-PSDTC	Pergamon Status Dış Ticaret A.Ş.	Toptan ve Perakende Ticaret
-TAVHL	Tav Havalimanları Holding A.Ş.	Ulaştırma
-IZFAS	İzmir Fırça Sanayi ve Ticaret A.Ş.	Kimya ve Plastik, İmalat
-ARMGD	Armada Gıda Ticaret Sanayi A.Ş.	Gıda ve İçecek
-BEYAZ	Beyaz Filo Oto Kiralama A.Ş.	Destek ve Hizmet, Servis Taşımacılığı ve Araç Kiralama
-IHYAY	İhlas Yayın Holding A.Ş.	Holding
-BAGFS	Bagfaş Bandırma Gübre Fabrikaları A.Ş.	Kimya ve Plastik
-BANVT	Banvit Bandırma Vitaminli Yem Sanayii A.Ş.	Gıda ve İçecek
-CVKMD	CVK Maden İşletmeleri Sanayi ve Ticaret A.Ş.	Madencilik ve Taş Ocakçılığı
-PINSU	Pınar Su Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-EUPWR	Europower Enerji ve Otomasyon Teknolojileri Sanayi Ticaret A.Ş.	Enerji Teknolojileri
-KLYPV	Kalyon Güneş Teknolojileri Üretim A.Ş.	Enerji Teknolojileri
-VERUS	Verusa Holding A.Ş.	Holding
-QNBTR	QNB Bank A.Ş.	Bankacılık
-RAYSG	Ray Sigorta A.Ş.	Sigorta
-SODSN	Sodaş Sodyum Sanayii A.Ş.	Kimya ve Plastik
-ARENA	Arena Bilgisayar Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-BSOKE	Batısöke Söke Çimento Sanayii T.A.Ş.	Taş, Toprak, Çimento
-BRKVY	Birikim Varlık Yönetim A.Ş	Varlık Yönetimi
-PRZMA	Prizma Pres Matbaacılık Yayıncılık Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri
-SASA	Sasa Polyester Sanayi A.Ş.	Kimya ve Plastik, İmalat
-CMENT	Çimentaş İzmir Çimento Fabrikası T.A.Ş.	Taş, Toprak, Çimento
-DESPC	Despec Bilgisayar Pazarlama ve Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-DOGUB	Doğusan Boru Sanayii ve Ticaret A.Ş.	İmalat
-EKIZ	Ekiz Kimya Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-ELITE	Elite Naturel Organik Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-EKGYO	Emlak Konut Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-KIMMR	Ersan Alışveriş Hizmetleri ve Gıda Sanayi Ticaret A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-ESCAR	Escar Turizm Taşımacılık Ticaret A.Ş.	Servis Taşımacılığı ve Araç Kiralama
-YIGIT	Yiğit Akü Malzemeleri Nakliyat Turizm İnşaat Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi
-IHAAS	İhlas Haber Ajansı A.Ş.	Haberleşme
-AKFIS	Akfen İnşaat Turizm ve Ticaret A.Ş.	İnşaat
-ARTMS	Artemis Halı A.Ş	Tekstil, Giyim ve Deri
-OZGYO	Özderici Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-BINHO	1000 Yatırımlar Holding A.Ş.	Holding
-IZENR	İzdemir Enerji Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım
-VESTL	Vestel Elektronik Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, Metal Eşya ve Makine
-YKBNK	Yapı ve Kredi Bankası A.Ş.	Bankacılık
-YATAS	Yataş Yatak ve Yorgan Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon
-AKSUE	Aksu Enerji ve Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-ARASE	Doğu Aras Enerji Yatırımları A.Ş.	Enerji Üretim ve Dağıtım
-DOKTA	Döktaş Dökümcülük Ticaret ve Sanayi A.Ş.	Otomotiv Yan Sanayi, Ana Metal, İmalat
-EDIP	Edip Gayrimenkul Yatırım Sanayi ve Ticaret A.Ş.	Gayrimenkul
-FORMT	Formet Metal ve Cam Sanayi A.Ş.	İmalat, Metal Eşya ve Makine
-GEDZA	Gediz Ambalaj Sanayi ve Ticaret A.Ş.	İmalat, Ambalaj
-GZNMI	Gezinomi Seyahat Turizm Ticaret A.Ş.	Turizm
-GSDDE	Gsd Denizcilik Gayrimenkul İnşaat Sanayi ve Ticaret A.Ş.	Ulaştırma
-GOKNR	Göknur Gıda Maddeleri Enerji İmalat İthalat İhracat Ticaret ve Sanayi AŞ	Gıda ve İçecek
-GRSEL	GÜR-SEL Turizm Taşımacılık ve Servis Ticaret A.Ş.	Turizm, Servis Taşımacılığı ve Araç Kiralama
-KLRHO	Kiler Holding A.Ş.	Holding
-RTALB	RTA Laboratuvarları Biyolojik Ürünler İlaç ve Makina Sanayi Ticaret A.Ş.	İlaç ve Sağlık
-BMSTL	BMS Birleşik Metal Sanayi ve Ticaret A.Ş.	Ana Metal
-BUCIM	Bursa Çimento Fabrikası A.Ş.	Taş, Toprak, Çimento
-BIZIM	Bizim Toptan Satış Mağazaları A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-ISYAT	İş Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-ALARK	Alarko Holding A.Ş.	Enerji Üretim ve Dağıtım, Holding
-MEDTR	Meditera Tıbbi Malzeme Sanayi ve Ticaret A.Ş.	İlaç ve Sağlık
-ASTOR	Astor Enerji A.Ş.	Enerji Teknolojileri
-LYDHO	Lydia Holding A.Ş.	Gayrimenkul, Toptan ve Perakende Ticaret
-ALFAS	Alfa Solar Enerji Sanayi ve Ticaret A.Ş.	Enerji Teknolojileri
-EKOS	Ekos Teknoloji ve Elektrik A.Ş.	Enerji Teknolojileri
-OBASE	Obase Bilgisayar ve Danışmanlık Hizmetleri Ticaret A.Ş.	Bilişim ve Yazılım
-ORGE	Orge Enerji Elektrik Taahhüt A.Ş.	İnşaat, Enerji Teknolojileri
-ORCAY	Orçay Ortaköy Çay Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-PSGYO	Pasifik Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-PCILT	PC İletişim ve Medya Hizmetleri Sanayi Ticaret A.Ş.	Destek ve Hizmet
-SDTTR	SDT Uzay ve Savunma Teknolojileri A.Ş.	Savunma
-AKSA	Aksa Akrilik Kimya Sanayii A.Ş.	Kimya ve Plastik, İmalat
-GEDIK	Gedik Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-GLRMK	Gülermak Ağır Sanayi İnşaat ve Taahhüt A.Ş.	İnşaat
-MACKO	Mackolik İnternet Hizmetleri Ticaret A.Ş.	Destek ve Hizmet
-MARMR	Marmara Holding A.Ş.	Holding
-OBAMS	Oba Makarnacılık Sanayi ve Ticaret A.Ş	Gıda ve İçecek
-ALKIM	Alkim Alkali Kimya A.Ş.	Kimya ve Plastik, İmalat
-BTCIM	Batıçim Batı Anadolu Çimento Sanayii A.Ş.	Taş, Toprak, Çimento
-TUCLK	Tuğçelik Alüminyum ve Metal Mamülleri Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-AVGYO	Avrasya Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-CWENE	CW Enerji Mühendislik Ticaret ve Sanayi A.Ş.	Enerji Teknolojileri
-CGCAM	Çağdaş Cam Sanayi ve Ticaret A.Ş.	Cam, Seramik, Porselen
-ULKER	Ülker Bisküvi Sanayi A.Ş.	Gıda ve İçecek
-AFYON	Afyon Çimento Sanayi T.A.Ş.	Taş, Toprak, Çimento
-AGHOL	AG Anadolu Grubu Holding A.Ş.	Holding
-BASCM	Baştaş Başkent Çimento Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-BLUME	Blume Metal Kimya A.Ş.	Kimya ve Plastik, İmalat
-BRSAN	Borusan Birleşik Boru Fabrikaları Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-BOSSA	Bossa Ticaret ve Sanayi İşletmeleri T.A.Ş.	Tekstil, Giyim ve Deri, İmalat
-BIGTK	Big Medya Teknoloji A.Ş.	Destek ve Hizmet
-KARTN	Kartonsan Karton Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri, İmalat
-KCHOL	Koç Holding A.Ş.	Holding
-VERTU	Verusatürk Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-OSMEN	Osmanlı Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-EMKEL	Emek Elektrik Endüstrisi A.Ş.	İmalat
-KATMR	Katmerciler Araç Üstü Ekipman Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, Savunma, İmalat, Metal Eşya ve Makine
-MEKAG	Meka Global Makine İmalat Sanayi ve Ticaret A.Ş.	İmalat
-KLSYN	Koleksiyon Mobilya Sanayi A.Ş.	Mobilya ve Dekorasyon
-KBORU	Kuzey Boru A.Ş.	Ana Metal, İmalat
-KUTPO	Kütahya Porselen Sanayi A.Ş.	Cam, Seramik, Porselen
-AYDEM	Aydem Yenilenebilir Enerji A.Ş.	Enerji Üretim ve Dağıtım
-ATSYH	Atlantis Yatırım Holding A.Ş.	Holding
-EGPRO	Ege Profil Ticaret ve Sanayi A.Ş.	Kimya ve Plastik
-GENTS	Gentaş Dekoratif Yüzeyler Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon, İmalat
-GEREL	Gersan Elektrik Ticaret ve Sanayi A.Ş.	İmalat, Metal Eşya ve Makine
-ODINE	Odine Solutions Teknoloji Ticaret ve Sanayi A.Ş.	Bilişim ve Yazılım
-GWIND	Galata Wind Enerji A.Ş.	Enerji Üretim ve Dağıtım
-GUBRF	Gübre Fabrikaları T.A.Ş.	Kimya ve Plastik, İmalat
-IEYHO	Işıklar Enerji ve Yapı Holding A.Ş.	Holding
-JANTS	Jantsa Jant Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, İmalat
-KRDMB	Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-KAREL	Karel Elektronik Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım
-KNFRT	Konfrut Tarım A.Ş.	Gıda ve İçecek
-KONYA	Konya Çimento Sanayii A.Ş.	Taş, Toprak, Çimento
-KRPLS	Koroplast Temizlik Ambalaj Ürünleri Sanayi ve Dış Ticaret A.Ş.	Ambalaj
-KOPOL	Koza Polyester Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-KRSTL	Kristal Kola ve Meşrubat Sanayi Ticaret A.Ş.	Gıda ve İçecek
-CIMSA	Çimsa Çimento Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-IZMDC	İzmir Demir Çelik Sanayi A.Ş.	Ana Metal, İmalat
-VAKFN	Vakıf Finansal Kiralama A.Ş.	Finansal Kiralama
-BORSK	Bor Şeker A.Ş.	Gıda ve İçecek
-CONSE	Consus Enerji İşletmeciliği ve Hizmetleri A.Ş.	Enerji Üretim ve Dağıtım
-COSMO	Cosmos Yatırım Holding A.Ş.	Holding
-EUYO	Euro Menkul Kıymet Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-VANGD	Vanet Gıda Sanayi İç ve Dış Ticaret A.Ş.	Gıda ve İçecek
-PAMEL	Pamukova Yenilenebilir Elektrik Üretimi A.Ş.	Enerji Üretim ve Dağıtım, İnşaat
-PNSUT	Pınar Süt Mamülleri Sanayi A.Ş.	Gıda ve İçecek
-POLHO	Polisan Holding A.Ş.	Kimya ve Plastik, Holding
-SEKUR	Sekuro Plastik Ambalaj Sanayi A.Ş.	Kimya ve Plastik, Ambalaj
-SONME	Sönmez Filament Sentetik İplik ve Elyaf Sanayi A.Ş.	Tekstil, Giyim ve Deri
-EGGUB	Ege Gübre Sanayii A.Ş.	Kimya ve Plastik
-ERSU	Ersu Meyve ve Gıda Sanayi A.Ş.	Gıda ve İçecek
-GRNYO	Garanti Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-VAKBN	Türkiye Vakıflar Bankası T.A.O.	Bankacılık
-MAKIM	Makim Makina Teknolojileri San. Tic. A.Ş	İmalat, Metal Eşya ve Makine
-METRO	Metro Ticari ve Mali Yatırımlar Holding A.Ş.	Holding
-OYYAT	Oyak Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-PAPIL	Papilon Savunma-Güvenlik Sistemleri Bilişim Mühendislik Hizmetleri İthalat İhracat Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım, Savunma
-TKFEN	Tekfen Holding A.Ş.	İnşaat, Holding
-AKSGY	Akiş Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-DCTTR	DCT Trading Dış Ticaret A.Ş.	Tarım, Hayvancılık, Balıkçılık
-DGGYO	Doğuş Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-RYGYO	Reysaş Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-SNKRN	Senkron Güvenlik ve İletişim Sistemleri A.Ş.	Destek ve Hizmet
-DERHL	Derlüks Yatırım Holding A.Ş.	Tekstil, Giyim ve Deri, İmalat
-DYOBY	Dyo Boya Fabrikaları Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-EGEGY	Egeyapı Avrupa Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-ERBOS	Erbosan Erciyas Boru Sanayii ve Ticaret A.Ş.	Ana Metal, İmalat
-HATEK	Hateks Hatay Tekstil İşletmeleri A.Ş.	Tekstil, Giyim ve Deri
-INVEO	Inveo Yatırım Holding A.Ş.	Holding
-RGYAS	Rönesans Gayrimenkul Yatırım A.Ş.	Gayrimenkul
-SANKO	Sanko Pazarlama İthalat İhracat A.Ş.	Tekstil, Giyim ve Deri, Toptan ve Perakende Ticaret, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-ARSAN	Arsan Tekstil Ticaret ve Sanayi A.Ş.	Tekstil, Giyim ve Deri
-BNTAS	Bantaş Bandırma Ambalaj Sanayi Ticaret A.Ş.	İmalat, Ambalaj
-MTRYO	Metro Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-MOBTL	Mobiltel İletişim Hizmetleri Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-NTGAZ	Naturelgaz Sanayi ve Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-SAFKR	Safkar Ege Soğutmacılık Klima Soğuk Hava Tesisleri İhracat İthalat Sanayi ve Ticaret A.Ş.	İmalat, Metal Eşya ve Makine
-SAMAT	Saray Matbaacılık Kağıtçılık Kırtasiyecilik Ticaret ve Sanayi A.Ş.	Kağıt ve Kağıt Ürünleri
-KFEIN	Kafein Yazılım Hizmetleri Ticaret A.Ş.	Bilişim ve Yazılım
-MTRKS	Matriks Finansal Teknolojiler A.Ş.	Bilişim ve Yazılım
-SERNT	Seranit Granit Seramik Sanayi ve Ticaret AŞ	Cam, Seramik, Porselen
-SRVGY	Servet Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-TATEN	Tatlıpınar Enerji Üretim A.Ş.	Enerji Üretim ve Dağıtım
-ISBIR	İşbir Holding A.Ş.	Holding
-ISCTR	Türkiye İş Bankası A.Ş.	Bankacılık
-KOZAL	Türk Altın İşletmeleri A.Ş.	—
-MNDRS	Menderes Tekstil Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-HOROZ	Horoz Lojistik Kargo Hizmetleri ve Ticaret A.Ş.	Ulaştırma
-KRVGD	Kervan Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-ALCAR	Alarko Carrier Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat
-AYCES	Altın Yunus Çeşme Turistik Tesisler A.Ş.	Turizm
-AEFES	Anadolu Efes Biracılık ve Malt Sanayii A.Ş.	Gıda ve İçecek
-AVHOL	Avrupa Yatırım Holding A.Ş.	Holding
-AVPGY	Avrupakent Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-BAHKM	Bahadır Kimya Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, Kimya ve Plastik
-BAKAB	Bak Ambalaj Sanayi ve Ticaret A.Ş.	Ambalaj
-BALAT	Balatacılar Balatacılık Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, İmalat
-BYDNR	Baydöner Restoranları A.Ş.	Gıda ve İçecek
-BERA	Bera Holding A.Ş.	Holding
-OZKGY	Özak Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-AKGRT	Aksigorta A.Ş.	Sigorta
-SOKM	Şok Marketler Ticaret A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-ALCTL	Alcatel Lucent Teletaş Telekomünikasyon A.Ş.	Haberleşme
-BRKSN	Berkosan Yalıtım ve Tecrit Maddeleri Üretim ve Ticaret A.Ş.	İnşaat
-LIDFA	Lider Faktoring A.Ş.	Faktoring
-BESLR	Besler Gıda ve Kimya Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-BMSCH	Bms Çelik Hasır Sanayi ve Ticaret A.Ş.	Ana Metal, Metal Eşya ve Makine
-BIGCH	Büyük Şefler Gıda Turizm Tekstil Danışmanlık Organizasyon Eğitim Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-BRLSM	Birleşim Mühendislik Isıtma Soğutma Havalandırma Sanayi ve Ticaret A.Ş	İnşaat, Enerji Teknolojileri
-DMSAS	Demisaş Döküm Emaye Mamülleri Sanayi A.Ş.	Ana Metal, İmalat
-CLEBI	Çelebi Hava Servisi A.Ş.	Ulaştırma
-FADE	Fade Gıda Yatırım Sanayi Ticaret A.Ş.	Gıda ve İçecek
-ALGYO	Alarko Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-CELHA	Çelik Halat ve Tel Sanayii A.Ş.	Ana Metal, İmalat
-OZSUB	Özsu Balık Üretim A.Ş.	Tarım, Hayvancılık, Balıkçılık
-ISMEN	İş Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-ARDYZ	Ard Grup Bilişim Teknolojileri A.Ş	Bilişim ve Yazılım
-ATLAS	Atlas Menkul Kıymetler Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-AYEN	Ayen Enerji A.Ş.	Enerji Üretim ve Dağıtım
-BARMA	Barem Ambalaj Sanayi ve Ticaret A.Ş.	Ambalaj
-BIMAS	Bim Birleşik Mağazalar A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-BIOEN	Biotrend Çevre ve Enerji Yatırımları A.Ş.	Enerji Üretim ve Dağıtım
-DZGYO	Deniz Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-MGROS	Migros Ticaret A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-OYAKC	Oyak Çimento Fabrikaları A.Ş.	Taş, Toprak, Çimento
-TCKRC	Kıraç Galvaniz Telekominikasyon Metal Makine İnşaat Elektrik Sanayi ve Ticaret A.Ş.	İmalat
-KRGYO	Körfez Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-PEKGY	Peker Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-PKART	Plastikkart Akıllı Kart İletişim Sistemleri Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım
-RYSAS	Reysaş Taşımacılık ve Lojistik Ticaret A.Ş.	Ulaştırma
-MEGMT	Mega Metal Sanayi ve Ticaret A.Ş.	Ana Metal
-MEPET	Mepet Metro Petrol ve Tesisleri Sanayi Ticaret A.Ş.	Turizm, Toptan ve Perakende Ticaret
-MERIT	Merit Turizm Yatırım ve İşletme A.Ş.	Turizm
-SELEC	Selçuk Ecza Deposu Ticaret ve Sanayi A.Ş.	İlaç ve Sağlık
-EUKYO	Euro Kapital Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-GSRAY	Galatasaray Sportif Sınai ve Ticari Yatırımlar A.Ş.	Spor
-HDFGS	Hedef Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-KLMSN	Klimasan Klima Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat, Metal Eşya ve Makine
-KZGYO	Kuzugrup Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-USAK	Uşak Seramik Sanayi A.Ş.	Cam, Seramik, Porselen
-YGYO	Yeşil Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-YONGA	Yonga Mobilya Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon
-SEGMN	Seğmen Kardeşler Gıda Üretim ve Ambalaj Sanayi A.Ş.	Gıda ve İçecek
-TKNSA	Teknosa İç ve Dış Ticaret A.Ş.	Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-AKCNS	Akçansa Çimento Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-GOODY	Goodyear Lastikleri T.A.Ş.	Otomotiv Yan Sanayi, Kimya ve Plastik
-KRDMD	Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-LIDER	LDR Turizm A.Ş.	Ulaştırma, Servis Taşımacılığı ve Araç Kiralama
-LYDYE	Lydia Yeşil Enerji Kaynakları A.Ş.	Enerji Üretim ve Dağıtım
-LUKSK	Lüks Kadife Ticaret ve Sanayii A.Ş.	Tekstil, Giyim ve Deri
-PRKAB	Türk Prysmian Kablo ve Sistemleri A.Ş.	İmalat, Metal Eşya ve Makine
-TBORG	Türk Tuborg Bira ve Malt Sanayii A.Ş.	Gıda ve İçecek
-MAVI	Mavi Giyim Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-SANEL	San-El Mühendislik Elektrik Taahhüt Sanayi ve Ticaret A.Ş.	İnşaat
-SKTAS	Söktaş Tekstil Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-DOAS	Doğuş Otomotiv Servis ve Ticaret A.Ş.	Otomotiv, Toptan ve Perakende Ticaret
-DURKN	Durukan Şekerleme Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-DIRIT	Diriteks Diriliş Tekstil Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-ECZYT	Eczacıbaşı Yatırım Holding Ortaklığı A.Ş.	Holding
-EGEEN	Ege Endüstri ve Ticaret A.Ş.	Otomotiv Yan Sanayi
-HUBVC	Hub Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-INGRM	Ingram Micro Bilişim Sistemleri A.Ş.	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
-KRONT	Kron Teknoloji A.Ş.	Bilişim ve Yazılım, Haberleşme
-OYLUM	Oylum Sınai Yatırımlar A.Ş.	Gıda ve İçecek, Holding
-PNLSN	PANELSAN ÇATI CEPHE SİSTEMLERİ SANAYİ VE TİCARET A.Ş.	İnşaat, İmalat
-ENKAI	Enka İnşaat ve Sanayi A.Ş.	İnşaat
-FENER	Fenerbahçe Futbol A.Ş.	Spor
-FONET	Fonet Bilgi Teknolojileri A.Ş.	Bilişim ve Yazılım
-ISKPL	Işık Plastik Sanayi ve Dış Ticaret Pazarlama A.Ş.	Kimya ve Plastik
-KSTUR	Kuştur Kuşadası Turizm Endüstri A.Ş.	Turizm
-TRALT	Türk Altın İşletmeleri A.Ş.	Madencilik ve Taş Ocakçılığı
-CRFSA	Carrefoursa Carrefour Sabancı Ticaret Merkezi A.Ş.	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
-EMNIS	Eminiş Ambalaj Sanayi ve Ticaret A.Ş.	Ambalaj
-TRMET	TR Anadolu Metal Madencilik İşletmeleri A.Ş.	Madencilik ve Taş Ocakçılığı
-MRGYO	Martı Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-KTSKR	Kütahya Şeker Fabrikası A.Ş	Gıda ve İçecek
-TRENJ	TR Doğal Enerji Kaynakları Araştırma ve Üretim A.Ş.	Madencilik ve Taş Ocakçılığı
-TURSG	Türkiye Sigorta A.Ş.	Sigorta
-MIPAZ	Lydia Holding A.Ş.	—
-KERVT	Besler Gıda ve Kimya Sanayi ve Ticaret A.Ş.	—
-QNBFB	QNB Finansbank A.Ş.	—
-IDEAS	Skyalp Finansal Teknolojiler ve Danışmanlık A.Ş.	—
-ITTFH	İttifak Holding A.Ş.	—
-TETMT	Tetamat Gıda Yatırımları A.Ş.	—
-KARYE	Kartal Yenilenebilir Enerji Üretim A.Ş.	—
-METUR	Blume Metal Kimya A.Ş.	Turizm
-DOBUR	Doğan Burda Dergi Yayıncılık ve Pazarlama A.Ş.	—
-QNBFL	QNB Finansal Kiralama A.Ş.	Finansal Kiralama
-DAGHL	Tera Finansal Yatırımlar Holding A.Ş.	Tekstil, Giyim ve Deri, Holding
-ALMAD	Altınyağ Madencilik ve Enerji Yatırımları Sanayi ve Ticaret A.Ş.	—
-PEHOL	Tera Yatırım Teknoloji Holding A.Ş.	Gayrimenkul
-EFORC	Efor Çay Sanayi ve Ticaret A.Ş.	—
-SELGD	Selçuk Gıda Endüstri İhracat İthalat A.Ş.	Gıda ve İçecek
-ISFIN	İş Finansal Kiralama A.Ş.	Finansal Kiralama
-TRCAS	Turcas Holding A.Ş.	Kimya ve Plastik
-CEMZY	Cem Zeytin A.Ş.	Tarım, Hayvancılık, Balıkçılık, Gıda ve İçecek
-MZHLD	Mazhar Zorlu Holding A.Ş.	Holding
-GLYHO	Global Yatırım Holding A.Ş.	Holding
-NTHOL	Net Holding A.Ş.	Holding
-IHLAS	İhlas Holding A.Ş.	Holding
-AVOD	A.V.O.D. Kurutulmuş Gıda ve Tarım Ürünleri A.Ş.	Gıda ve İçecek
-MERKO	Merko Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-SILVR	Silverline Endüstri ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat
-A1CAP	A1 Capital Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-A1YEN	A1 Yenilenebilir Enerji Üretim A.Ş.	Enerji Üretim ve Dağıtım
-ACSEL	Acıselsan Acıpayam Selüloz Sanayi ve Ticaret A.Ş.	Kimya ve Plastik
-ADEL	Adel Kalemcilik Ticaret ve Sanayi A.Ş.	İmalat
-ADESE	Adese Gayrimenkul Yatırım A.Ş	Gayrimenkul
-DEVA	Deva Holding A.Ş.	İlaç ve Sağlık
-ERCB	Erciyas Çelik Boru Sanayi A.Ş.	Ana Metal, Metal Eşya ve Makine
-EUHOL	Euro Yatırım Holding A.Ş.	Holding
-SAHOL	Hacı Ömer Sabancı Holding A.Ş.	Holding
-AGROT	Agrotech Yüksek Teknoloji ve Yatırım A.Ş.	Gıda ve İçecek
-BEGYO	Batı Ege Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-DOCO	Do & Co Aktiengesellschaft	Destek ve Hizmet
-AKFGY	Akfen Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-DESA	Desa Deri Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-FMIZP	Federal-Mogul İzmit Piston ve Pim Üretim Tesisleri A.Ş.	Otomotiv Yan Sanayi, İmalat
-KOTON	Koton Mağazacılık Tekstil Sanayi ve Ticaret A.Ş.	Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-ULUFA	Ulusal Faktoring A.Ş.	Faktoring
-AKSEN	Aksa Enerji Üretim A.Ş.	Enerji Üretim ve Dağıtım
-MOPAS	Mopaş Marketcilik Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek, Gıda Perakendeciliği
-ARCLK	Arçelik A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat
-AYGAZ	Aygaz A.Ş.	Kimya ve Plastik, İmalat
-ALBRK	Albaraka Türk Katılım Bankası A.Ş.	Bankacılık
-MMCAS	Mmc Sanayi ve Ticari Yatırımlar A.Ş.	Holding
-DGNMO	Doğanlar Mobilya Grubu İmalat Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon
-GLCVY	Gelecek Varlık Yönetimi A.Ş.	Varlık Yönetimi
-GESAN	Girişim Elektrik Sanayi Taahhüt ve Ticaret A.Ş.	İnşaat, Enerji Teknolojileri
-HLGYO	Halk Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-KRDMA	Kardemir Karabük Demir Çelik Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-KRTEK	Karsu Tekstil Sanayii ve Ticaret A.Ş.	Tekstil, Giyim ve Deri
-ALVES	Alves Kablo Sanayi ve Ticaret A.Ş	İmalat
-BAYRK	Bayrak Ebt Taban Sanayi ve Ticaret A.Ş.	Tekstil, Giyim ve Deri, İmalat
-BASGZ	Başkent Doğalgaz Dağıtım Gayrimenkul Yatırım Ortaklığı A.Ş.	Enerji Üretim ve Dağıtım
-VRGYO	Vera Konsept Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-BFREN	Bosch Fren Sistemleri Sanayi ve Ticaret A.Ş.	Otomotiv Yan Sanayi, İmalat
-EPLAS	Egeplast Ege Plastik Ticaret ve Sanayi A.Ş.	Kimya ve Plastik, İmalat
-VKING	Viking Kağıt ve Selülöz A.Ş.	Kağıt ve Kağıt Ürünleri
-ASGYO	Asce Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-AGYO	Atakule Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-DAPGM	DAP Gayrimenkul Geliştirme A.Ş.	Gayrimenkul
-ENSRI	Ensari Sınai Yatırımlar A.Ş.	Tekstil, Giyim ve Deri
-HTTBT	Hitit Bilgisayar Hizmetleri A.Ş.	Bilişim ve Yazılım
-ICUGS	ICU Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-KCAER	Kocaer Çelik Sanayi ve Ticaret A.Ş.	Ana Metal, İmalat
-ASUZU	Anadolu Isuzu Otomotiv Sanayi ve Ticaret A.Ş.	Otomotiv
-ATAGY	Ata Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-ATAKP	Atakey Patates Gıda Sanayi ve Ticaret AŞ	Gıda ve İçecek
-CRDFA	Creditwest Faktoring A.Ş.	Faktoring
-KAPLM	Kaplamin Ambalaj Sanayi ve Ticaret A.Ş.	İmalat, Ambalaj
-VSNMD	Vişne Madencilik Üretim Sanayi ve Ticaret A.Ş.	Madencilik ve Taş Ocakçılığı
-PKENT	Petrokent Turizm A.Ş.	Turizm
-BRYAT	Borusan Yatırım ve Pazarlama A.Ş.	Holding
-ENERY	Enerya Enerji A.Ş.	Enerji Üretim ve Dağıtım
-FROTO	Ford Otomotiv Sanayi A.Ş.	Otomotiv, İmalat
-KORDS	Kordsa Teknik Tekstil A.Ş.	Kimya ve Plastik, İmalat
-SEKFK	Şeker Finansal Kiralama A.Ş.	Finansal Kiralama
-ENTRA	IC Enterra Yenilenebilir Enerji A.Ş.	Enerji Üretim ve Dağıtım
-MEGAP	Mega Polietilen Köpük Sanayi A.Ş.	Kimya ve Plastik, Tekstil, Giyim ve Deri
-KONKA	Konya Kağıt Sanayi ve Ticaret A.Ş.	Kağıt ve Kağıt Ürünleri
-IPEKE	TR Doğal Enerji Kaynakları Araştırma ve Üretim A.Ş.	—
-LMKDC	Limak Doğu Anadolu Çimento Sanayi ve Ticaret A.Ş.	Taş, Toprak, Çimento
-ATATP	ATP Yazılım ve Teknoloji A.Ş.	Bilişim ve Yazılım
-PAGYO	Panora Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-MRSHL	Marshall Boya ve Vernik Sanayii A.Ş.	Kimya ve Plastik, İmalat
-TABGD	TAB Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-DITAS	Ditaş Doğan Yedek Parça İmalat ve Teknik A.Ş.	Otomotiv Yan Sanayi
-ENJSA	Enerjisa Enerji A.Ş.	Enerji Üretim ve Dağıtım
-HUNER	Hun Yenilenebilir Enerji Üretim A.Ş.	Enerji Üretim ve Dağıtım
-TTKOM	Türk Telekomünikasyon A.Ş.	Haberleşme
-PARSN	Parsan Makina Parçaları Sanayii A.Ş.	Otomotiv Yan Sanayi
-TNZTP	Tapdi Oksijen Özel Sağlık ve Eğitim Hizmetleri Sanayi Ticaret A.Ş.	İlaç ve Sağlık
-TEKTU	Tek-Art İnşaat Ticaret Turizm Sanayi ve Yatırımlar A.Ş.	Turizm
-TUKAS	Tukaş Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-SISE	Türkiye Şişe ve Cam Fabrikaları A.Ş.	Kimya ve Plastik, Cam, Seramik, Porselen
-IHLGM	İhlas Gayrimenkul Proje Geliştirme ve Ticaret A.Ş.	Gayrimenkul, İnşaat
-MARTI	Martı Otel İşletmeleri A.Ş.	Turizm
-PRDGS	Pardus Girişim Sermayesi Yatırım Ortaklığı A.Ş	Girişim Sermayesi Yat. Ort.
-SEYKM	Seyitler Kimya Sanayi A.Ş.	Kimya ve Plastik, İlaç ve Sağlık
-LINK	Link Bilgisayar Sistemleri Yazılımı ve Donanımı Sanayi ve Ticaret A.Ş.	Bilişim ve Yazılım
-MNDTR	Mondi Turkey Oluklu Mukavva Kağıt ve Ambalaj Sanayi A.Ş.	Kağıt ve Kağıt Ürünleri, Ambalaj
-SANFM	Sanifoam Endüstri ve Tüketim Ürünleri Sanayi Ticaret A.Ş.	Kimya ve Plastik
-SMART	Smartiks Yazılım A.Ş.	Bilişim ve Yazılım
-VAKKO	Vakko Tekstil ve Hazır Giyim Sanayi İşletmeleri A.Ş.	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
-IHEVA	İhlas Ev Aletleri İmalat Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, İmalat
-ISGSY	İş Girişim Sermayesi Yatırım Ortaklığı A.Ş.	Girişim Sermayesi Yat. Ort.
-MAGEN	Margün Enerji Üretim Sanayi ve Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-MARKA	Marka Yatırım Holding A.Ş.	Holding
-MHRGY	MHR Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-TRHOL	Tera Finansal Yatırımlar Holding A.Ş.	Holding
-TEHOL	Tera Yatırım Teknoloji Holding A.Ş.	Holding
-RUBNS	Rubenis Tekstil Sanayi Ticaret A.Ş.	Tekstil, Giyim ve Deri
-TSPOR	Trabzonspor Sportif Yatırım ve Futbol İşletmeciliği Ticaret A.Ş.	Spor
-TSKB	Türkiye Sınai Kalkınma Bankası A.Ş.	Bankacılık
-YGGYO	Yeni Gimat Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-MAALT	Marmaris Altınyunus Turistik Tesisler A.Ş.	Turizm
-ORMA	Orma Orman Mahsulleri Entegre Sanayi ve Ticaret A.Ş.	Mobilya ve Dekorasyon, İmalat
-OYAYO	Oyak Yatırım Ortaklığı A.Ş.	Menkul Kıymet Yat. Ort.
-VBTYZ	VBT Yazılım A.Ş.	Bilişim ve Yazılım
-VESBE	Vestel Beyaz Eşya Sanayi ve Ticaret A.Ş.	Dayanıklı Tüketim Ürünleri, Metal Eşya ve Makine
-ISDMR	İskenderun Demir ve Çelik A.Ş.	Ana Metal, İmalat
-TGSAS	TGS Dış Ticaret A.Ş.	Toptan ve Perakende Ticaret
-ULUSE	Ulusoy Elektrik İmalat Taahhüt ve Ticaret A.Ş.	İmalat, Metal Eşya ve Makine
-VKGYO	Vakıf Gayrimenkul Yatırım Ortaklığı A.Ş.	Gayrimenkul
-YAYLA	Yayla Enerji Üretim Turizm ve İnşaat Ticaret A.Ş.	Enerji Üretim ve Dağıtım
-IHGZT	İhlas Gazetecilik A.Ş.	Kağıt ve Kağıt Ürünleri
-YYLGD	Yayla Agro Gıda Sanayi ve Ticaret A.Ş.	Gıda ve İçecek
-ZEDUR	Zedur Enerji Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım, Turizm
-ZOREN	Zorlu Enerji Elektrik Üretim A.Ş.	Enerji Üretim ve Dağıtım
-INFO	İnfo Yatırım Menkul Değerler A.Ş.	Aracı Kurum
-INTEM	İntema İnşaat ve Tesisat Malzemeleri Yatırım ve Pazarlama A.Ş.	Toptan ve Perakende Ticaret
+Hisse Kodu	Sektör(ler)
+BORLS	Servis Taşımacılığı ve Araç Kiralama
+DARDL	Gıda ve İçecek
+PAHOL	Holding
+DUNYH	Holding
+RALYH	Holding
+EYGYO	Gayrimenkul
+VAKFA	Faktoring
+YKSLN	Ana Metal, İmalat
+UMPAS	Holding
+FZLGY	Gayrimenkul
+GOLTS	Taş, Toprak, Çimento
+GUNDG	Gıda ve İçecek
+GMTAS	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+HEDEF	Holding
+HEKTS	Kimya ve Plastik, İmalat
+ONCSM	İlaç ve Sağlık
+PRKME	Enerji Üretim ve Dağıtım
+SNICA	İmalat, Metal Eşya ve Makine
+HURGZ	Kağıt ve Kağıt Ürünleri
+KLSER	Cam, Seramik, Porselen
+KONTR	Bilişim ve Yazılım, Enerji Teknolojileri
+KLGYO	Gayrimenkul
+LKMNH	İlaç ve Sağlık
+TMSN	Otomotiv
+GRTRK	—
+ISGYO	Gayrimenkul
+ADGYO	Gayrimenkul
+MPARK	İlaç ve Sağlık
+AKBNK	Bankacılık
+ALKLC	Gıda ve İçecek
+CASA	Kimya ve Plastik
+OZYSR	Ana Metal
+ROYAL	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+AHSGY	Gayrimenkul
+ANSGR	Sigorta
+BOBET	Taş, Toprak, Çimento
+BURVA	Ana Metal, İmalat
+BVSAN	İmalat
+DAGI	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+DENGE	Holding
+EGSER	Cam, Seramik, Porselen
+HRKET	Ulaştırma, Destek ve Hizmet
+HALKB	Bankacılık
+PETKM	Kimya ve Plastik
+HATSN	İmalat
+RUZYE	Madencilik ve Taş Ocakçılığı
+SELVA	Gıda ve İçecek
+SKYLP	Bilişim ve Yazılım
+DURDO	Kağıt ve Kağıt Ürünleri, Ambalaj
+TLMAN	Ulaştırma
+KOZAA	—
+LILAK	Kağıt ve Kağıt Ürünleri
+KMPUR	Kimya ve Plastik
+MIATK	Bilişim ve Yazılım
+OTTO	Holding
+PGSUS	Ulaştırma
+PETUN	Gıda ve İçecek
+AGESA	Emeklilik
+AHGAZ	Enerji Üretim ve Dağıtım
+AKYHO	Destek ve Hizmet
+AKENR	Enerji Üretim ve Dağıtım
+TSGYO	Gayrimenkul
+BALSU	Gıda ve İçecek
+DOFER	İmalat
+EDATA	Bilişim ve Yazılım
+EFOR	Kimya ve Plastik, Gıda ve İçecek
+ISATR	Bankacılık
+OZATD	İmalat
+INTEK	Bilişim ve Yazılım
+NETAS	Bilişim ve Yazılım, Haberleşme
+QUAGR	Cam, Seramik, Porselen
+RODRG	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+SURGY	Gayrimenkul
+SMRVA	Varlık Yönetimi
+TOASO	Otomotiv, İmalat
+TRGYO	Gayrimenkul
+ISKUR	Bankacılık
+AKFYE	Enerji Üretim ve Dağıtım
+TUPRS	Kimya ve Plastik
+MANAS	Enerji Üretim ve Dağıtım
+NUGYO	Gayrimenkul
+GENIL	İlaç ve Sağlık
+INVES	Holding
+SNGYO	Gayrimenkul
+AZTEK	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+BIGEN	Enerji Üretim ve Dağıtım
+GLRYH	Holding
+UZERB	—
+SKYMD	Aracı Kurum
+UNLU	Holding
+ANGEN	İlaç ve Sağlık
+BRKO	Tekstil, Giyim ve Deri, İmalat
+EREGL	Ana Metal, İmalat
+TEZOL	Kağıt ve Kağıt Ürünleri
+AKMGY	Gayrimenkul
+BRISA	Otomotiv Yan Sanayi, Kimya ve Plastik, İmalat
+DOFRB	Bilişim ve Yazılım, İmalat
+ETILR	Toptan ve Perakende Ticaret
+GARFA	Faktoring
+GRTHO	Gıda ve İçecek
+KLKIM	Kimya ve Plastik, İmalat
+KAYSE	Gıda ve İçecek
+KENT	Gıda ve İçecek
+KGYO	Gayrimenkul
+KOCMT	Ana Metal
+ALKA	Kağıt ve Kağıt Ürünleri
+ANELE	İnşaat
+ASELS	Savunma, İmalat
+BURCE	Ana Metal, İmalat
+ETYAT	Menkul Kıymet Yat. Ort.
+AVTUR	Toptan ve Perakende Ticaret
+AYES	İmalat
+PLTUR	Ulaştırma, Servis Taşımacılığı ve Araç Kiralama
+REEDR	Bilişim ve Yazılım
+EKSUN	Gıda ve İçecek
+ICBCT	Bankacılık
+MARBL	Taş, Toprak, Çimento
+KLNMA	Bankacılık
+CUSAN	Ana Metal, İmalat
+MSGYO	Gayrimenkul
+HKTM	İmalat, Metal Eşya ve Makine
+KZBGY	Gayrimenkul
+EGEPO	İlaç ve Sağlık
+NATEN	Enerji Üretim ve Dağıtım
+BIENY	Cam, Seramik, Porselen
+OFSYM	Gıda ve İçecek
+DMRGD	Gıda ve İçecek
+MERCN	Kimya ve Plastik
+EBEBK	Toptan ve Perakende Ticaret
+MOGAN	Enerji Üretim ve Dağıtım
+ESCOM	Bilişim ve Yazılım
+TERA	Aracı Kurum
+ODAS	Enerji Üretim ve Dağıtım
+PASEU	Ulaştırma
+ATEKS	Tekstil, Giyim ve Deri
+ARZUM	Dayanıklı Tüketim Ürünleri, İmalat
+BJKAS	Spor
+BRMEN	Tekstil, Giyim ve Deri, İmalat
+KUYAS	Gayrimenkul
+OSTIM	Holding
+PATEK	Bilişim ve Yazılım, Savunma
+UFUK	Holding
+ULUUN	Gıda ve İçecek
+YUNSA	Tekstil, Giyim ve Deri
+YBTAS	İnşaat
+CATES	Enerji Üretim ve Dağıtım
+CEMAS	Ana Metal, İmalat
+LRSHO	Holding
+TMPOL	Kimya ve Plastik
+TRILC	İlaç ve Sağlık
+ULAS	Turizm
+FRIGO	Gıda ve İçecek
+PENGD	Gıda ve İçecek
+TTRAK	Otomotiv
+YAPRK	Tarım, Hayvancılık, Balıkçılık
+PENTA	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+POLTK	Ana Metal, İmalat
+ALTNY	Savunma
+ENDAE	Enerji Üretim ve Dağıtım
+SOKE	Gıda ve İçecek
+TARKM	Kimya ve Plastik
+TDGYO	Gayrimenkul
+SNPAM	Tekstil, Giyim ve Deri
+TATGD	Gıda ve İçecek
+ANHYT	Emeklilik
+BULGS	Girişim Sermayesi Yat. Ort.
+IMASM	Metal Eşya ve Makine
+IZINV	Holding
+SKBNK	Bankacılık
+SARKY	Madencilik ve Taş Ocakçılığı, Ana Metal
+SAYAS	Enerji Teknolojileri
+TUREX	Turizm, Servis Taşımacılığı ve Araç Kiralama
+TCELL	Haberleşme
+THYAO	Ulaştırma
+TURGG	İnşaat
+CMBTN	Taş, Toprak, Çimento, İnşaat
+INDES	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+YYAPI	İnşaat
+YESIL	Holding
+ZRGYO	Gayrimenkul
+CANTE	Enerji Üretim ve Dağıtım
+ISBTR	Bankacılık
+SMRTG	Enerji Teknolojileri
+IDGYO	Gayrimenkul
+GOZDE	Girişim Sermayesi Yat. Ort.
+KARSN	Otomotiv, İmalat
+KUVVA	Gıda ve İçecek
+CEMTS	Ana Metal, İmalat
+CCOLA	Gıda ve İçecek
+DNISI	Kimya ve Plastik
+ECILC	Holding, İlaç ve Sağlık
+GARAN	Bankacılık
+VKFYO	Menkul Kıymet Yat. Ort.
+YEOTK	Bilişim ve Yazılım, Enerji Teknolojileri
+OZRDN	Ambalaj
+NIBAS	Taş, Toprak, Çimento
+SEGYO	Gayrimenkul
+QNBFK	Finansal Kiralama
+SUMAS	Mobilya ve Dekorasyon, İmalat
+BINBN	Ulaştırma
+ECOGR	Kimya ve Plastik, Enerji Üretim ve Dağıtım, Enerji Teknolojileri
+SUNTK	Tekstil, Giyim ve Deri
+RNPOL	Kimya ve Plastik, İmalat
+ISSEN	Kimya ve Plastik
+GLBMD	Aracı Kurum
+DERIM	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+DSTKF	Faktoring
+DOHOL	Holding
+SUWEN	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+ESEN	Enerji Üretim ve Dağıtım
+EUREN	Mobilya ve Dekorasyon, İnşaat
+FLAP	Destek ve Hizmet
+FORTE	Bilişim ve Yazılım
+GIPTA	İmalat
+GSDHO	Holding
+MAKTK	Metal Eşya ve Makine
+KTLEV	Tasarruf Finansman
+KERVN	Holding
+LOGO	Bilişim ve Yazılım
+NUHCM	Taş, Toprak, Çimento
+BLCYT	Tekstil, Giyim ve Deri, Holding
+CEOEM	Destek ve Hizmet
+DGATE	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+ONRYT	Bilişim ve Yazılım, Savunma, Enerji Teknolojileri
+OTKAR	Otomotiv, Savunma
+PSDTC	Toptan ve Perakende Ticaret
+TAVHL	Ulaştırma
+IZFAS	Kimya ve Plastik, İmalat
+ARMGD	Gıda ve İçecek
+BEYAZ	Destek ve Hizmet, Servis Taşımacılığı ve Araç Kiralama
+IHYAY	Holding
+BAGFS	Kimya ve Plastik
+BANVT	Gıda ve İçecek
+CVKMD	Madencilik ve Taş Ocakçılığı
+PINSU	Gıda ve İçecek
+EUPWR	Enerji Teknolojileri
+KLYPV	Enerji Teknolojileri
+VERUS	Holding
+QNBTR	Bankacılık
+RAYSG	Sigorta
+SODSN	Kimya ve Plastik
+ARENA	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+BSOKE	Taş, Toprak, Çimento
+BRKVY	Varlık Yönetimi
+PRZMA	Kağıt ve Kağıt Ürünleri
+SASA	Kimya ve Plastik, İmalat
+CMENT	Taş, Toprak, Çimento
+DESPC	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+DOGUB	İmalat
+EKIZ	Kimya ve Plastik
+ELITE	Gıda ve İçecek
+EKGYO	Gayrimenkul
+KIMMR	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+ESCAR	Servis Taşımacılığı ve Araç Kiralama
+YIGIT	Otomotiv Yan Sanayi
+IHAAS	Haberleşme
+AKFIS	İnşaat
+ARTMS	Tekstil, Giyim ve Deri
+OZGYO	Gayrimenkul
+BINHO	Holding
+IZENR	Enerji Üretim ve Dağıtım
+VESTL	Dayanıklı Tüketim Ürünleri, Metal Eşya ve Makine
+YKBNK	Bankacılık
+YATAS	Mobilya ve Dekorasyon
+AKSUE	Enerji Üretim ve Dağıtım
+ARASE	Enerji Üretim ve Dağıtım
+DOKTA	Otomotiv Yan Sanayi, Ana Metal, İmalat
+EDIP	Gayrimenkul
+FORMT	İmalat, Metal Eşya ve Makine
+GEDZA	İmalat, Ambalaj
+GZNMI	Turizm
+GSDDE	Ulaştırma
+GOKNR	Gıda ve İçecek
+GRSEL	Turizm, Servis Taşımacılığı ve Araç Kiralama
+KLRHO	Holding
+RTALB	İlaç ve Sağlık
+BMSTL	Ana Metal
+BUCIM	Taş, Toprak, Çimento
+BIZIM	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+ISYAT	Menkul Kıymet Yat. Ort.
+ALARK	Enerji Üretim ve Dağıtım, Holding
+MEDTR	İlaç ve Sağlık
+ASTOR	Enerji Teknolojileri
+LYDHO	Gayrimenkul, Toptan ve Perakende Ticaret
+ALFAS	Enerji Teknolojileri
+EKOS	Enerji Teknolojileri
+OBASE	Bilişim ve Yazılım
+ORGE	İnşaat, Enerji Teknolojileri
+ORCAY	Gıda ve İçecek
+PSGYO	Gayrimenkul
+PCILT	Destek ve Hizmet
+SDTTR	Savunma
+AKSA	Kimya ve Plastik, İmalat
+GEDIK	Aracı Kurum
+GLRMK	İnşaat
+MACKO	Destek ve Hizmet
+MARMR	Holding
+OBAMS	Gıda ve İçecek
+ALKIM	Kimya ve Plastik, İmalat
+BTCIM	Taş, Toprak, Çimento
+TUCLK	Ana Metal, İmalat
+AVGYO	Gayrimenkul
+CWENE	Enerji Teknolojileri
+CGCAM	Cam, Seramik, Porselen
+ULKER	Gıda ve İçecek
+AFYON	Taş, Toprak, Çimento
+AGHOL	Holding
+BASCM	Taş, Toprak, Çimento
+BLUME	Kimya ve Plastik, İmalat
+BRSAN	Ana Metal, İmalat
+BOSSA	Tekstil, Giyim ve Deri, İmalat
+BIGTK	Destek ve Hizmet
+KARTN	Kağıt ve Kağıt Ürünleri, İmalat
+KCHOL	Holding
+VERTU	Girişim Sermayesi Yat. Ort.
+OSMEN	Aracı Kurum
+EMKEL	İmalat
+KATMR	Otomotiv Yan Sanayi, Savunma, İmalat, Metal Eşya ve Makine
+MEKAG	İmalat
+KLSYN	Mobilya ve Dekorasyon
+KBORU	Ana Metal, İmalat
+KUTPO	Cam, Seramik, Porselen
+AYDEM	Enerji Üretim ve Dağıtım
+ATSYH	Holding
+EGPRO	Kimya ve Plastik
+GENTS	Mobilya ve Dekorasyon, İmalat
+GEREL	İmalat, Metal Eşya ve Makine
+ODINE	Bilişim ve Yazılım
+GWIND	Enerji Üretim ve Dağıtım
+GUBRF	Kimya ve Plastik, İmalat
+IEYHO	Holding
+JANTS	Otomotiv Yan Sanayi, İmalat
+KRDMB	Ana Metal, İmalat
+KAREL	Bilişim ve Yazılım
+KNFRT	Gıda ve İçecek
+KONYA	Taş, Toprak, Çimento
+KRPLS	Ambalaj
+KOPOL	Kimya ve Plastik
+KRSTL	Gıda ve İçecek
+CIMSA	Taş, Toprak, Çimento
+IZMDC	Ana Metal, İmalat
+VAKFN	Finansal Kiralama
+BORSK	Gıda ve İçecek
+CONSE	Enerji Üretim ve Dağıtım
+COSMO	Holding
+EUYO	Menkul Kıymet Yat. Ort.
+VANGD	Gıda ve İçecek
+PAMEL	Enerji Üretim ve Dağıtım, İnşaat
+PNSUT	Gıda ve İçecek
+POLHO	Kimya ve Plastik, Holding
+SEKUR	Kimya ve Plastik, Ambalaj
+SONME	Tekstil, Giyim ve Deri
+EGGUB	Kimya ve Plastik
+ERSU	Gıda ve İçecek
+GRNYO	Menkul Kıymet Yat. Ort.
+VAKBN	Bankacılık
+MAKIM	İmalat, Metal Eşya ve Makine
+METRO	Holding
+OYYAT	Aracı Kurum
+PAPIL	Bilişim ve Yazılım, Savunma
+TKFEN	İnşaat, Holding
+AKSGY	Gayrimenkul
+DCTTR	Tarım, Hayvancılık, Balıkçılık
+DGGYO	Gayrimenkul
+RYGYO	Gayrimenkul
+SNKRN	Destek ve Hizmet
+DERHL	Tekstil, Giyim ve Deri, İmalat
+DYOBY	Kimya ve Plastik
+EGEGY	Gayrimenkul
+ERBOS	Ana Metal, İmalat
+HATEK	Tekstil, Giyim ve Deri
+INVEO	Holding
+RGYAS	Gayrimenkul
+SANKO	Tekstil, Giyim ve Deri, Toptan ve Perakende Ticaret, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+ARSAN	Tekstil, Giyim ve Deri
+BNTAS	İmalat, Ambalaj
+MTRYO	Menkul Kıymet Yat. Ort.
+MOBTL	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+NTGAZ	Enerji Üretim ve Dağıtım
+SAFKR	İmalat, Metal Eşya ve Makine
+SAMAT	Kağıt ve Kağıt Ürünleri
+KFEIN	Bilişim ve Yazılım
+MTRKS	Bilişim ve Yazılım
+SERNT	Cam, Seramik, Porselen
+SRVGY	Gayrimenkul
+TATEN	Enerji Üretim ve Dağıtım
+ISBIR	Holding
+ISCTR	Bankacılık
+KOZAL	—
+MNDRS	Tekstil, Giyim ve Deri
+HOROZ	Ulaştırma
+KRVGD	Gıda ve İçecek
+ALCAR	Dayanıklı Tüketim Ürünleri, İmalat
+AYCES	Turizm
+AEFES	Gıda ve İçecek
+AVHOL	Holding
+AVPGY	Gayrimenkul
+BAHKM	Otomotiv Yan Sanayi, Kimya ve Plastik
+BAKAB	Ambalaj
+BALAT	Otomotiv Yan Sanayi, İmalat
+BYDNR	Gıda ve İçecek
+BERA	Holding
+OZKGY	Gayrimenkul
+AKGRT	Sigorta
+SOKM	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+ALCTL	Haberleşme
+BRKSN	İnşaat
+LIDFA	Faktoring
+BESLR	Gıda ve İçecek
+BMSCH	Ana Metal, Metal Eşya ve Makine
+BIGCH	Gıda ve İçecek
+BRLSM	İnşaat, Enerji Teknolojileri
+DMSAS	Ana Metal, İmalat
+CLEBI	Ulaştırma
+FADE	Gıda ve İçecek
+ALGYO	Gayrimenkul
+CELHA	Ana Metal, İmalat
+OZSUB	Tarım, Hayvancılık, Balıkçılık
+ISMEN	Aracı Kurum
+ARDYZ	Bilişim ve Yazılım
+ATLAS	Menkul Kıymet Yat. Ort.
+AYEN	Enerji Üretim ve Dağıtım
+BARMA	Ambalaj
+BIMAS	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+BIOEN	Enerji Üretim ve Dağıtım
+DZGYO	Gayrimenkul
+MGROS	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+OYAKC	Taş, Toprak, Çimento
+TCKRC	İmalat
+KRGYO	Gayrimenkul
+PEKGY	Gayrimenkul
+PKART	Bilişim ve Yazılım
+RYSAS	Ulaştırma
+MEGMT	Ana Metal
+MEPET	Turizm, Toptan ve Perakende Ticaret
+MERIT	Turizm
+SELEC	İlaç ve Sağlık
+EUKYO	Menkul Kıymet Yat. Ort.
+GSRAY	Spor
+HDFGS	Girişim Sermayesi Yat. Ort.
+KLMSN	Dayanıklı Tüketim Ürünleri, İmalat, Metal Eşya ve Makine
+KZGYO	Gayrimenkul
+USAK	Cam, Seramik, Porselen
+YGYO	Gayrimenkul
+YONGA	Mobilya ve Dekorasyon
+SEGMN	Gıda ve İçecek
+TKNSA	Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+AKCNS	Taş, Toprak, Çimento
+GOODY	Otomotiv Yan Sanayi, Kimya ve Plastik
+KRDMD	Ana Metal, İmalat
+LIDER	Ulaştırma, Servis Taşımacılığı ve Araç Kiralama
+LYDYE	Enerji Üretim ve Dağıtım
+LUKSK	Tekstil, Giyim ve Deri
+PRKAB	İmalat, Metal Eşya ve Makine
+TBORG	Gıda ve İçecek
+MAVI	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+SANEL	İnşaat
+SKTAS	Tekstil, Giyim ve Deri
+DOAS	Otomotiv, Toptan ve Perakende Ticaret
+DURKN	Gıda ve İçecek
+DIRIT	Tekstil, Giyim ve Deri
+ECZYT	Holding
+EGEEN	Otomotiv Yan Sanayi
+HUBVC	Girişim Sermayesi Yat. Ort.
+INGRM	Bilişim ve Yazılım, Toptan ve Perakende Ticaret, Teknolojik Ürün Ticareti
+KRONT	Bilişim ve Yazılım, Haberleşme
+OYLUM	Gıda ve İçecek, Holding
+PNLSN	İnşaat, İmalat
+ENKAI	İnşaat
+FENER	Spor
+FONET	Bilişim ve Yazılım
+ISKPL	Kimya ve Plastik
+KSTUR	Turizm
+TRALT	Madencilik ve Taş Ocakçılığı
+CRFSA	Toptan ve Perakende Ticaret, Gıda Perakendeciliği
+EMNIS	Ambalaj
+TRMET	Madencilik ve Taş Ocakçılığı
+MRGYO	Gayrimenkul
+KTSKR	Gıda ve İçecek
+TRENJ	Madencilik ve Taş Ocakçılığı
+TURSG	Sigorta
+MIPAZ	—
+KERVT	—
+QNBFB	—
+IDEAS	—
+ITTFH	—
+TETMT	—
+KARYE	—
+METUR	Turizm
+DOBUR	—
+QNBFL	Finansal Kiralama
+DAGHL	Tekstil, Giyim ve Deri, Holding
+ALMAD	—
+PEHOL	Gayrimenkul
+EFORC	—
+SELGD	Gıda ve İçecek
+ISFIN	Finansal Kiralama
+TRCAS	Kimya ve Plastik
+CEMZY	Tarım, Hayvancılık, Balıkçılık, Gıda ve İçecek
+MZHLD	Holding
+GLYHO	Holding
+NTHOL	Holding
+IHLAS	Holding
+AVOD	Gıda ve İçecek
+MERKO	Gıda ve İçecek
+SILVR	Dayanıklı Tüketim Ürünleri, İmalat
+A1CAP	Aracı Kurum
+A1YEN	Enerji Üretim ve Dağıtım
+ACSEL	Kimya ve Plastik
+ADEL	İmalat
+ADESE	Gayrimenkul
+DEVA	İlaç ve Sağlık
+ERCB	Ana Metal, Metal Eşya ve Makine
+EUHOL	Holding
+SAHOL	Holding
+AGROT	Gıda ve İçecek
+BEGYO	Gayrimenkul
+DOCO	Destek ve Hizmet
+AKFGY	Gayrimenkul
+DESA	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+FMIZP	Otomotiv Yan Sanayi, İmalat
+KOTON	Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+ULUFA	Faktoring
+AKSEN	Enerji Üretim ve Dağıtım
+MOPAS	Gıda ve İçecek, Gıda Perakendeciliği
+ARCLK	Dayanıklı Tüketim Ürünleri, İmalat
+AYGAZ	Kimya ve Plastik, İmalat
+ALBRK	Bankacılık
+MMCAS	Holding
+DGNMO	Mobilya ve Dekorasyon
+GLCVY	Varlık Yönetimi
+GESAN	İnşaat, Enerji Teknolojileri
+HLGYO	Gayrimenkul
+KRDMA	Ana Metal, İmalat
+KRTEK	Tekstil, Giyim ve Deri
+ALVES	İmalat
+BAYRK	Tekstil, Giyim ve Deri, İmalat
+BASGZ	Enerji Üretim ve Dağıtım
+VRGYO	Gayrimenkul
+BFREN	Otomotiv Yan Sanayi, İmalat
+EPLAS	Kimya ve Plastik, İmalat
+VKING	Kağıt ve Kağıt Ürünleri
+ASGYO	Gayrimenkul
+AGYO	Gayrimenkul
+DAPGM	Gayrimenkul
+ENSRI	Tekstil, Giyim ve Deri
+HTTBT	Bilişim ve Yazılım
+ICUGS	Girişim Sermayesi Yat. Ort.
+KCAER	Ana Metal, İmalat
+ASUZU	Otomotiv
+ATAGY	Gayrimenkul
+ATAKP	Gıda ve İçecek
+CRDFA	Faktoring
+KAPLM	İmalat, Ambalaj
+VSNMD	Madencilik ve Taş Ocakçılığı
+PKENT	Turizm
+BRYAT	Holding
+ENERY	Enerji Üretim ve Dağıtım
+FROTO	Otomotiv, İmalat
+KORDS	Kimya ve Plastik, İmalat
+SEKFK	Finansal Kiralama
+ENTRA	Enerji Üretim ve Dağıtım
+MEGAP	Kimya ve Plastik, Tekstil, Giyim ve Deri
+KONKA	Kağıt ve Kağıt Ürünleri
+IPEKE	—
+LMKDC	Taş, Toprak, Çimento
+ATATP	Bilişim ve Yazılım
+PAGYO	Gayrimenkul
+MRSHL	Kimya ve Plastik, İmalat
+TABGD	Gıda ve İçecek
+DITAS	Otomotiv Yan Sanayi
+ENJSA	Enerji Üretim ve Dağıtım
+HUNER	Enerji Üretim ve Dağıtım
+TTKOM	Haberleşme
+PARSN	Otomotiv Yan Sanayi
+TNZTP	İlaç ve Sağlık
+TEKTU	Turizm
+TUKAS	Gıda ve İçecek
+SISE	Kimya ve Plastik, Cam, Seramik, Porselen
+IHLGM	Gayrimenkul, İnşaat
+MARTI	Turizm
+PRDGS	Girişim Sermayesi Yat. Ort.
+SEYKM	Kimya ve Plastik, İlaç ve Sağlık
+LINK	Bilişim ve Yazılım
+MNDTR	Kağıt ve Kağıt Ürünleri, Ambalaj
+SANFM	Kimya ve Plastik
+SMART	Bilişim ve Yazılım
+VAKKO	Tekstil, Giyim ve Deri, Giyim, Tekstil ve Deri Ürünleri Perakendeciliği
+IHEVA	Dayanıklı Tüketim Ürünleri, İmalat
+ISGSY	Girişim Sermayesi Yat. Ort.
+MAGEN	Enerji Üretim ve Dağıtım
+MARKA	Holding
+MHRGY	Gayrimenkul
+TRHOL	Holding
+TEHOL	Holding
+RUBNS	Tekstil, Giyim ve Deri
+TSPOR	Spor
+TSKB	Bankacılık
+YGGYO	Gayrimenkul
+MAALT	Turizm
+ORMA	Mobilya ve Dekorasyon, İmalat
+OYAYO	Menkul Kıymet Yat. Ort.
+VBTYZ	Bilişim ve Yazılım
+VESBE	Dayanıklı Tüketim Ürünleri, Metal Eşya ve Makine
+ISDMR	Ana Metal, İmalat
+TGSAS	Toptan ve Perakende Ticaret
+ULUSE	İmalat, Metal Eşya ve Makine
+VKGYO	Gayrimenkul
+YAYLA	Enerji Üretim ve Dağıtım
+IHGZT	Kağıt ve Kağıt Ürünleri
+YYLGD	Gıda ve İçecek
+ZEDUR	Enerji Üretim ve Dağıtım, Turizm
+ZOREN	Enerji Üretim ve Dağıtım
+INFO	Aracı Kurum
+INTEM	Toptan ve Perakende Ticaret
