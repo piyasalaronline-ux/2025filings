@@ -1,0 +1,354 @@
+[
+  {
+    "id": 37,
+    "slug": "ambalaj",
+    "title": "Ambalaj",
+    "description": "Ambalaj sektörü sanayi ve perakendenin her dalına destek sağlayan sektörlerden biri. Bu sektörde firmalar plastik, kağıt, karton, cam, metal ve ahşap gibi ürünleri kullanarak üretim yapmaktadırlar.",
+    "og": "https://storage.fintables.com/media/uploads/6aeb70f0e2d745a3a08a246258075006.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/ambalaj_cover.jpg"
+  },
+  {
+    "id": 15,
+    "slug": "ana-metal",
+    "title": "Ana Metal",
+    "description": "Ana metal sektörü demir çelik ile bunun dışında kalan diğer alt sektörlerden oluşmaktadır. Değerli metaller, alüminyum, kurşun, çinko, bakır dışındaki metallerin üretimi bu sektör tarafından yapılır. Sektörün ürünleri inşaat, otomotiv, enerji kimya sektörlerde kullanılmaktadır.",
+    "og": "https://storage.fintables.com/media/uploads/46e9cf94a0fb4f0d9e23230a25632603.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/ana_metal_cover.jpg"
+  },
+  {
+    "id": 24,
+    "slug": "araci-kurum",
+    "title": "Aracı Kurum",
+    "description": "Sermaye Piyasası Kurulu tarafından yetkilendirilmiş ve Borsa İstanbul ile diğer organize piyasalarda işlem yapma ve yaptırma yetkisi olan şirketlerden oluşur. İşlem aracılığı, portföy yönetimi, yatırım danışmanlığı gibi sermaye piyasası faaliyetlerinin bir çoğunu gerçekleştirme yetkilerine sahiptirler.",
+    "og": "https://storage.fintables.com/media/uploads/48d6eb1357c049caa677d033992c24da.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/araci_kurum_cover.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "bankacilik",
+    "title": "Bankacılık",
+    "description": "Bankalar bireysel ve kurumsalların finansal ihtiyaçlarını karşılamak üzere mevduat toplayan, kredi veren, kambiyo işlemleri yapan ve her türlü yurtiçi ve uluslararası ödemelere aracılık eden kuruluşlardır. Bankacılık sektörü ekonomik yapının en önemli temel parçalarından biridir.",
+    "og": "https://storage.fintables.com/media/uploads/2ed116bb04534e29a88231c6c56e7849.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/bankacilik_cover.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "bilisim-ve-yazilim",
+    "title": "Bilişim ve Yazılım",
+    "description": "Bilişim ve yazılım sektörü bilgisayarlar, bilgisayar ağları, yazılım, donanım, web tasarımı, yarı iletken gibi ürün ve hizmetler üzerine çalışır. Yazılım sektörü firmaları daha çok hizmet sağlayıcılığı yaparken bilişim sektöründe donanım ürünlerinin ticareti de yapılmaktadır.",
+    "og": "https://storage.fintables.com/media/uploads/b94528c100fa439790bc2dcc76bf9f19.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/bilisim_ve_yazilim_cover.jpg"
+  },
+  {
+    "id": 32,
+    "slug": "cam-seramik-porselen",
+    "title": "Cam, Seramik, Porselen",
+    "description": "Cam sanayi inşaat, otomobil, ambalaj gibi alanlara ürün veren temel sanayi sektörlerinden biridir. Porselen, seramik, granit gibi ürünler de inşaat, dekorasyon, ambalaj gibi sektörlerde yaygın olarak kullanılır.",
+    "og": "https://storage.fintables.com/media/uploads/f647e770cfd449798ac78d9507447e69.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/cam_seramik_porselen_cover.jpg"
+  },
+  {
+    "id": 16,
+    "slug": "dayanikli-tuketim-urunleri",
+    "title": "Dayanıklı Tüketim Ürünleri",
+    "description": "Buzdolabı, çamaşır makinesi, bulaşık makinesi gibi beyaz eşyaları kapsayan ömrü birkaç yıldan fazla olan ürünleri üreten sektördür. Büyük oranda ihracata dayalı olan bu sektör Türkiye'nin ana sanayi kollarından biridir.",
+    "og": "https://storage.fintables.com/media/uploads/322534f03d8b43ea878020329209ac76.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/dayanikli_tuketim_urunleri_cover.jpg"
+  },
+  {
+    "id": 30,
+    "slug": "destek-ve-hizmet",
+    "title": "Destek ve Hizmet",
+    "description": "Etkinlik planlama, fuar organizasyonu, güvenlik, danışmanlık, filo kiralama gibi alanlarda hizmet sağlayan şirketlerin faaliyet gösterdiği sektördür.",
+    "og": "https://storage.fintables.com/media/uploads/7ffc80009efd4e50964fa117a4f5a4a6.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/destek_hizmet_cover.jpg"
+  },
+  {
+    "id": 33,
+    "slug": "emeklilik",
+    "title": "Emeklilik",
+    "description": "Bu şirketler emeklilik ürünleri sunan finansal kuruluşlardır. Ana faaliyetleri bireysel emeklilik olsa da gerekli lisansları alarak hayat sigortası alanında da faaliyet gösterirler.",
+    "og": "https://storage.fintables.com/media/uploads/7eff0cb6445c443789a34fb1ab6658ca.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Emeklilik_Cover.jpg"
+  },
+  {
+    "id": 44,
+    "slug": "enerji-teknolojileri",
+    "title": "Enerji Teknolojileri",
+    "description": "Enerji teknolojileri sektörü; enerji üretimi, iletimi ve dağıtımı için gerekli olan ekipmanların imalatı ve kurulumuyla ilgilenen şirketlerden oluşur. Sektörün imal ettiği ürünler, elektrik üretimi yapmak üzere kurulmuş şirketlerle kendi kullandığı elektriği üretmek isteyen sanayi şirketleri tarafından kullanılır.",
+    "og": "https://storage.fintables.com/media/uploads/abd787e0d4e8401895bd34b912a80fba.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/enerji_teknolojileri_cover.jpg"
+  },
+  {
+    "id": 17,
+    "slug": "enerji-uretim-ve-dagitim",
+    "title": "Enerji Üretim ve Dağıtım",
+    "description": "Enerji üretim sektörü çeşitli doğal ve fosil kaynakları kullanarak bunları elektrik enerjisine çeviren şirketlerden oluşur. Enerji dağıtım sektörü ise doğal gaz ve elektriğin konut ve sanayiye ulaştırılmasından sorumludur.",
+    "og": "https://storage.fintables.com/media/uploads/5b8d17f178e94dd28533b3ec3bdcfee9.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Enerji_Uretim_ve_Dag%C4%B1t%C4%B1m_Cover.jpg"
+  },
+  {
+    "id": 26,
+    "slug": "faktoring",
+    "title": "Faktoring",
+    "description": "Faktoring kuruluşları şirketlerin sattıkları mal ya da hizmet karşılığında oluşan alacakları üzerine alarak karşılığında nakit öder. Vadeli alacakları vadesi gelmeden likidite eden bir finansman yöntemi sunar.",
+    "og": "https://storage.fintables.com/media/uploads/ff16b5e3dfc34b79bb2e86b0a5bc6a8a.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Faktoring_Cover.jpg"
+  },
+  {
+    "id": 25,
+    "slug": "finansal-kiralama",
+    "title": "Finansal Kiralama",
+    "description": "Finansal kiralama bir yatırım malının sözleşme süresi boyunca kullanılmasını sağlayan orta ya da uzun vadeli bir finansman yöntemidir. Leasing şirketleri bu yöntem ile diğer şirketlere ekipmanları satın almadan kiralayarak kullanma imkanı sunar.",
+    "og": "https://storage.fintables.com/media/uploads/33e3fe82069042d4812fa38e7bda9195.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Finansal_Kiralama_Cover.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "gayrimenkul",
+    "title": "Gayrimenkul",
+    "description": "Gayrimenkul sektörü taşınmaz ve değerli olan arsa, konut, işyeri gibi varlıkları satın alan ya da üreten daha sonrasında bunları başka yatırımcılara satan ya da kiralayan şirketlerden oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/d1b13a7d7be7441d9cdb87fffa97ef55.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/gayrimenkul_cover.jpg"
+  },
+  {
+    "id": 36,
+    "slug": "girisim-sermayesi-yatirim-ortakligi",
+    "title": "Girişim Sermayesi Yat. Ort.",
+    "description": "Girişim Sermayesi Yatırım Ortaklıkları, sahip oldukları sermayeyinin en az yarısını girişim sermayesi yatırımlarında kullanan sermaye piyasası kurumlarıdır. Bu şirketler aynı zamanda kurumsal yatırımcıdır ve SPK tarafından lisanslanır.",
+    "og": "https://storage.fintables.com/media/uploads/929f308061104a5d9f1484c90fa4ce7b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/girisim_sermayesi_yatirim_ortakligi_cover.jpg"
+  },
+  {
+    "id": 48,
+    "slug": "giyim-tekstil-ve-deri-urunleri-perakendeciligi",
+    "title": "Giyim, Tekstil ve Deri Ürünleri Perakendeciliği",
+    "description": "Giyim, Tekstil ve Deri Ürünleri Perakendeciliği sektörü; kumaş ve deriden elden edilen hazır giyim ürünlerini mağazacılık aracılığıyla ya da e-ticaret portalları üzerinden son kullanıcıyla ulaştıran firmalardan oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/aeaa74418b5e49768d17b2b7fa429c3d.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Giyim_Tekstil_ve_Deri_Urunleri_Perakendeciligi_Cover.jpg"
+  },
+  {
+    "id": 45,
+    "slug": "gida-perakendeciligi",
+    "title": "Gıda Perakendeciliği",
+    "description": "Gıda perakendesi sektörü; marketler, süpermarketler, toptan satış noktaları ve online perakende platformları gibi çeşitli kanallar aracılığıyla geniş bir gıda ve tüketim ürünü yelpazesini, müşterilere sunmakta olan şirketlerden oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/f860d7c0674b45d6aabf3704750ad2ae.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/gida_perakendeciligi_cover.jpg"
+  },
+  {
+    "id": 11,
+    "slug": "gida-ve-icecek",
+    "title": "Gıda ve İçecek",
+    "description": "Gıda ve içecek sektörü, her türlü sebze, meyve üretimi ve işlenmesi, et ürünlerinin imalatı ve işlenmesi, süt ürünlerinin imalatı ve işlenmesi, alkollü ve alkolsüz içeceklerin imalatı, şişelenmesi ve dağıtımı faaliyetlerini yürütmektedir.",
+    "og": "https://storage.fintables.com/media/uploads/e569327c02da431f870b55d5e3a37826.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/gida_icecek_cover.jpg"
+  },
+  {
+    "id": 22,
+    "slug": "haberlesme",
+    "title": "Haberleşme",
+    "description": "Haberleşme sektörü her türlü ulusal ve uluslararası iletişim altyapısından sorumludur. Kablosuz operatör, internet servis sağlayıcılığı, uydu hizmetleri gibi temel iletişim faaliyetlerini yürütmektedir.",
+    "og": "https://storage.fintables.com/media/uploads/932f8833f1194bb8a644f68d62df93ca.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Haberlesme_Cover.jpg"
+  },
+  {
+    "id": 23,
+    "slug": "holding",
+    "title": "Holding",
+    "description": "Holdingler başka ortaklıkların paylarının bir kısmını ya da tamamını elinde bulunduran ve diğer ortaklıkların yönetimini yapan şirketler topluluğudur. Holdingler çatıları altında çok farklı sektörlerde faaliyetler gösterebilirler.",
+    "og": "https://storage.fintables.com/media/uploads/a438ac8032f647999347c123ffbf9344.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Holding_Cover.jpg"
+  },
+  {
+    "id": 28,
+    "slug": "ilac-ve-saglik",
+    "title": "İlaç ve Sağlık",
+    "description": "İlaç sektörü, tedavi etme, iyileştirme, aşılama, semptom azaltma ya da takviye sağlama amacıyla hastalara verilen ilaçları geliştiren, üreten ve pazarlayan sektördür. Sağlık sektörü ise hastaneler, poliklinikler, tıp merkezleri, özel klinikler gibi hastalara hizmet sağlayan kurumlardan oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/a18267e2b34a44e3ade8fe777d4a644c.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/ilac_ve_saglik_cover.jpg"
+  },
+  {
+    "id": 31,
+    "slug": "imalat",
+    "title": "İmalat",
+    "description": "İmalat bir yarı mamulün ya da bir hammaddenin işlenerek bir sanayi ürününe ya da ara mala dönüştürülmesi faaliyetidir. Bu süreçte makineler ve insan gücü ayrı ayrı ya da birlikte kullanılabilir. İmalat sektörü ağır ve hafif sanayi olarak ikiye ayrılır.",
+    "og": "https://storage.fintables.com/media/uploads/ed01775a61ee4ae198a1ac2bb1ee4fca.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/imalat_cover.jpg"
+  },
+  {
+    "id": 18,
+    "slug": "insaat",
+    "title": "İnşaat",
+    "description": "İnşaat, konut başta olmak üzere fabrika, okul, işyeri, depo, hastane gibi yapıları inşa eden, yol, baraj, köprü, tünel gibi altyapıların yapımını sağlayan sektördür.",
+    "og": "https://storage.fintables.com/media/uploads/bd546c07f7c44b188583bc7dd5e9d60b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/insaat_cover.jpg"
+  },
+  {
+    "id": 14,
+    "slug": "kagit-ve-kagit-urunleri",
+    "title": "Kağıt ve Kağıt Ürünleri",
+    "description": "Kağıt ve kağıt ürünleri sektörü gündelik hayatın her alanında ihtiyaç duyulan basım ve ambalaj ürünlerine ara mal üretimi yapmaktadır. Eğitim, sağlık, sanayi, iletişim gibi sektörlerde yoğun olarak kağıt ve kağıt ürünleri kullanılmaktadır.",
+    "og": "https://storage.fintables.com/media/uploads/884224044d7f496e869964985e5e8390.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/kagit_ve_kagit_urunleri_cover.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "kimya-ve-plastik",
+    "title": "Kimya ve Plastik",
+    "description": "Kimya ve plastik sektörü pek çok sektöre ara mal ve hammadde tedariği yapmaktadır. Tarım ilaçları, gübreler, sentetik malzemeler, temizlik ürünleri, kozmetik ürünler, boya, plastik hammaddeleri, petro-kimya ürünleri bu sektör tarafından üretilir.",
+    "og": "https://storage.fintables.com/media/uploads/71fc16f0fc2c44fa8132ac31930b1bd5.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/kimya_ve_plastik_cover.jpg"
+  },
+  {
+    "id": 10,
+    "slug": "madencilik-ve-tas-ocakciligi",
+    "title": "Madencilik ve Taş Ocakçılığı",
+    "description": "Madencilik ve taş ocakçılığı sektörü yeraltı kaynaklarının çıkarılması ve işlenmesi faaliyetini yürütmektedir. Demir, bakır, alüminyum, lityum, kömür, altın, gümüş, nikel, grafit, kobalt gibi ürünleri çıkarır ve gerekli sektörlere hammadde tedariğini sağlar.",
+    "og": "https://storage.fintables.com/media/uploads/f5cd785f45db4e328464d1dcde0e7ad7.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/madencilik_ve_tas_ocakligi_cover.jpg"
+  },
+  {
+    "id": 35,
+    "slug": "menkul-kiymet-yatirim-ortakligi",
+    "title": "Menkul Kıymet Yat. Ort.",
+    "description": "Menkul Kıymet Yatırım Ortaklıkları hisse senedi, tahvil ve bonolar, varlığa dayalı menkul kıymetler gibi varlıklara yatırım yapan ve bu kıymetlerin alım-satımından gelir elde eden kurumlardır.",
+    "og": "https://storage.fintables.com/media/uploads/427b0702ae41487397191049aa988f9c.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/menkul_kiymet_yatirim_ortakligi_cover.jpg"
+  },
+  {
+    "id": 38,
+    "slug": "metal-esya-ve-makine",
+    "title": "Metal Eşya ve Makine",
+    "description": "Metal eşya ve makine sektörü, sanayi içinde yatırım mallarını üreten sektördür. Diğer sektörlerde kullanılan makinelerin, bu makinelere ilişkin ekipman ve yedek parçaların üretiminden sorumludur.",
+    "og": "https://storage.fintables.com/media/uploads/214c62ac1eed4cefa538042e19010e97.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Metal_Esya_ve_Makine_Cover.jpg"
+  },
+  {
+    "id": 13,
+    "slug": "mobilya-ve-dekorasyon",
+    "title": "Mobilya ve Dekorasyon",
+    "description": "Mobilya ve Dekorasyon sektörü, dekoratif ürünler ve masa, sehpa, sandalye, koltuk, dolap, karyola gibi mobilyaların tasarımı, planlaması ve üretimi faaliyetlerini yürütmektedir.",
+    "og": "https://storage.fintables.com/media/uploads/dcf1e5d702de4c44963a686814f8088b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Mobilya_ve_Dekorasyon_Cover.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "otomotiv",
+    "title": "Otomotiv",
+    "description": "Otomotiv sektörü motorlu taşıtların tasarımını, üretimini ve pazarlamasını yapar. Sıfır ve ikinci el satışlar, kısa ve uzun dönem kiralamalar, satış sonrası hizmetler, bakım hizmetleri sektör tarafından yapılır.",
+    "og": "https://storage.fintables.com/media/uploads/2fa95cd8ff8940a0abc7d970be04413d.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Otomotiv_Cover.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "otomotiv-yan-sanayi",
+    "title": "Otomotiv Yan Sanayi",
+    "description": "Otomotiv yan sanayi otomotiv sektörüne direkt olarak parça imal eden sektördür. Her türlü otomobil parçası, ekipmanı, lastikler, jantlar bu sektör tarafından üretilir. Türkiye'nin ihracat oranı yüksek sektörlerinden biridir.",
+    "og": "https://storage.fintables.com/media/uploads/ba0ae385954e439e8910599a769fcf0d.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Otomotiv_Yan_Sanayi_Cover.jpg"
+  },
+  {
+    "id": 29,
+    "slug": "savunma",
+    "title": "Savunma",
+    "description": "Savunma sanayi sektörü askeri teknolojinin üretimini ve satışını gerçekleştirmektedir. Silahlı ürünlerin, askeri haberleşme sistemlerinin, askeri teçhizatların araştırma ve geliştirme faaliyetlerini yürütmektedir.",
+    "og": "https://storage.fintables.com/media/uploads/7c2fbd9d540741e78e2699c6e77bf57b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Savunma_Cover.jpg"
+  },
+  {
+    "id": 46,
+    "slug": "servis-tasimaciligi-ve-arac-kiralama",
+    "title": "Servis Taşımacılığı ve Araç Kiralama",
+    "description": "Servis taşımacılığı sektörü, çalışan personelin ve eğitim görmekte olan öğrencilerin ulaşım ihtiyacını, ticari minibüs ve otobüsler aracılığıyla karşılama hizmeti veren firmaları bünyesinde barındırır. Araç kiralama sektörü ise bireylerin ya da şirketlerin bir veya birden fazla araç ihtiyacını belirli bir süre diliminde karşılayan firmalardan oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/14d84a09ce4b45a78539537f708ebfb2.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/servis_tasimaciligi_ve_arac_kiralama_cover.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "sigorta",
+    "title": "Sigorta",
+    "description": "İnsanların ya da kurumların sahip olduğu tüm varlık ve riskleri koruma altına alan ve oluşabilecek zararları karşılayan finansal araç sigortadır. Sigortacılık sektörü bu sözleşmelerin hazırlanması, satılması  faaliyetlerini yürütmektedir.",
+    "og": "https://storage.fintables.com/media/uploads/b13828b9364f42d6b6944c92f1c1eee7.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Sigorta_Cover.jpg"
+  },
+  {
+    "id": 27,
+    "slug": "spor",
+    "title": "Spor",
+    "description": "Spor endüstrisi, çeşitli spor dallarında sportif faaliyet gösteren ve ticari olarak da bu sportif faaliyetlerden gelir elde etmeyi hedefleyen spor kulüplerinden oluşur.",
+    "og": "https://storage.fintables.com/media/uploads/f1628084aa684345b5b30ba193e9467b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/spor_cover.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "tarim-hayvancilik-balikcilik",
+    "title": "Tarım, Hayvancılık, Balıkçılık",
+    "description": "Tarım sektörü bitkisel ve hayvansal ürünlerin üretilmesinden sorumludur. Hayvanların beslenmesi, bakımı, yetiştirilmesi, korunması ve işlenerek pazarlanması faaliyetlerini yürütür. Sektörün ana amacı tarımsal ve hayvansal ürünlerin üretimindeki verimliliğini artırmaktır.",
+    "og": "https://storage.fintables.com/media/uploads/4b67f52aafe64d1ca4b9129f8cf27a5d.jpg",
+    "cover": null
+  },
+  {
+    "id": 49,
+    "slug": "tasarruf-finansman",
+    "title": "Tasarruf Finansman",
+    "description": "Tasarruf Finansman sektörü; müşterilere satın almak istedikleri konut, iş yeri ve taşıtlar için banka kredisi yerine kullanılabilen alternatif modeller sunan firmalardan oluşmaktadır. Şirketler, müşterileriyle yaptıkları sözleşmeye uygun olarak tasarruf finansman faaliyeti yürütürler.",
+    "og": "https://storage.fintables.com/media/uploads/4b5845464e8c40e99e0a3de835a9742c.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Tasarruf_Finansman_Cover.jpg"
+  },
+  {
+    "id": 1,
+    "slug": "tas-toprak-cimento",
+    "title": "Taş, Toprak, Çimento",
+    "description": "Taş, toprak ve çimento sektöründeki şirketler yeraltı ve yerüstü kaynaklardan elde edilen ürünlerin işlenmesi ve inşaat başta olmak üzere çeşitli sektörlere tedarik sağlanmasından sorumludur.",
+    "og": "https://storage.fintables.com/media/uploads/f218546726ef42188cf4ccf511b249e9.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/tas_toprak_cimento_cover.jpg"
+  },
+  {
+    "id": 47,
+    "slug": "teknolojik-urun-ticareti",
+    "title": "Teknolojik Ürün Ticareti",
+    "description": "Teknolojik ürün ticareti sektörü; bilgisayar ve bileşenlerini üreterek ya da ithal ederek elde eden ve bu ürünlerin pazarlamasını yapan firmaları bünyesinde barındırmaktadır.",
+    "og": "https://storage.fintables.com/media/uploads/f12f331141c9420793e1e19ae559923c.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/teknolojik_urun_ticareti_cover.jpg"
+  },
+  {
+    "id": 12,
+    "slug": "tekstil-giyim-ve-deri",
+    "title": "Tekstil, Giyim ve Deri",
+    "description": "Tekstil sektörü elyaftan ipliğe ve kumaşa sonrasında da kumaştan hazır giyim ürünlerine uzanan üretim faaliyetlerini yürütür. Elde edilen giyim ürünlerinin satışı, pazarlanması da sektör tarafından yapılır. Deri sektörü de derinin fiziksel ve kimyasal işlemler sonrasında eşyaya dönüştürülmesini gerçekleştirir.",
+    "og": "https://storage.fintables.com/media/uploads/257244465a6a4b6898586a5de8c4762e.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/tekstik_giyim_derisektoru_cover.jpg"
+  },
+  {
+    "id": 20,
+    "slug": "toptan-ve-perakende-ticaret",
+    "title": "Toptan ve Perakende Ticaret",
+    "description": "Perakende sektörü üreticiyle tüketici arasındaki köprü görevini üstlenen ve malların nihai tüketiciye ulaşmasını sağlayan sektördür. Market zincirleri, otomobil distribütörleri, teknoloji marketleri bu sektörün en bilinen oyuncularıdır.",
+    "og": "https://storage.fintables.com/media/uploads/789f08d0415a48f3ab7277d20223335e.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/toptan_perakende_ticaret_sektoru.jpg"
+  },
+  {
+    "id": 19,
+    "slug": "turizm",
+    "title": "Turizm",
+    "description": "Turizm sektörü dinlenme, eğlenme, gezme, tanıma amacıyla yapılan gezi ve ziyaretler dolayısıyla oluşan talebi karşılayan ve turistlere hizmet amacıyla yürütülen ekonomik çalışmaları üstlenen sektördür. Ana amacı uluslararası turistleri ülkeye çekmektir.",
+    "og": "https://storage.fintables.com/media/uploads/5dce264955ca4198b90de41a62e23cf0.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/Turizm_Cover.jpg"
+  },
+  {
+    "id": 21,
+    "slug": "ulastirma",
+    "title": "Ulaştırma",
+    "description": "Ulaştırma sektörü insanların ve üretilmiş malların bir yerden başka bir yere taşınmasını sağlar. Ulaştırma faaliyetleri hava, deniz, kara ve demiryolları üzerinden yürütülür.",
+    "og": "https://storage.fintables.com/media/uploads/b3f4b6cf828b46f285d095d43746609b.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/ulastirma_cover.jpg"
+  },
+  {
+    "id": 39,
+    "slug": "varlik-yonetimi",
+    "title": "Varlık Yönetimi",
+    "description": "Varlık yönetim şirketleri öncelikli olarak bankalardan olmak üzere finansal kuruluşların sahip olduğu tahsili gecikmiş alacak portföylerini devralan ve bu alacakları tahsil etmeye çalışan finansal kuruluşlardır.",
+    "og": "https://storage.fintables.com/media/uploads/e2f3e0f6b1f84a70abf907177ad092cf.jpg",
+    "cover": "https://storage.fintables.com/media/uploads/varlik_yonetimi_cover.jpg"
+  }
+]
