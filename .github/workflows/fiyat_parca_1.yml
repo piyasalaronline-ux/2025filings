@@ -15,7 +15,7 @@ jobs:
         fetch-depth: 0
     - uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.12'
         cache: 'pip'
     - run: pip install yfinance
     # 1. Parça çalışsın
@@ -32,3 +32,4 @@ jobs:
         git pull --rebase
 
         git push
+
