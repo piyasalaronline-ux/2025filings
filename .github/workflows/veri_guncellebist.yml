@@ -21,7 +21,7 @@ jobs:
     - name: Python Kurulumu
       uses: actions/setup-python@v4
       with:
-        python-version: '3.9'
+        python-version: '3.12'
 
     - name: Kütüphaneleri Yükle
       run: |
@@ -39,4 +39,5 @@ jobs:
         git add data/pazar_verileribist.json
         # Eğer değişiklik varsa commit yap, yoksa hata verme
         git commit -m "Otomatik veri güncellemesi: $(date)" || exit 0
+
         git push
